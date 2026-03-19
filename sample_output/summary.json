@@ -1,0 +1,14 @@
+{
+  "config": {
+    "h3_resolution": 8,
+    "ring_radius": 3,
+    "n_hexes": 37,
+    "timestep_minutes": 30,
+    "n_clusters": 4,
+    "llm_model": "gpt-5.4-mini"
+  },
+  "results": {
+    "total_trips": 3529,
+    "n_timesteps": 32
+  }
+}

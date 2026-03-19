@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mode Split Over Time</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+<h2>Trip Mode Split by Timestep</h2>
+<canvas id="chart" width="1200" height="400"></canvas>
+<script>
+const ctx = document.getElementById('chart').getContext('2d');
+new Chart(ctx, {
+  type: 'line',
+  data: {"labels": ["06:00", "06:30", "07:00", "07:30", "08:00", "08:30", "09:00", "09:30", "10:00", "10:30", "11:00", "11:30", "12:00", "12:30", "13:00", "13:30", "14:00", "14:30", "15:00", "15:30", "16:00", "16:30", "17:00", "17:30", "18:00", "18:30", "19:00", "19:30", "20:00", "20:30", "21:00", "21:30"], "datasets": [{"label": "driving", "data": [50, 58, 56, 46, 50, 53, 53, 50, 46, 44, 42, 45, 44, 50, 46, 48, 46, 46, 43, 49, 49, 50, 52, 59, 48, 47, 40, 40, 42, 45, 40, 42], "backgroundColor": "#e74c3c", "borderColor": "#e74c3c", "fill": false}, {"label": "transit", "data": [11, 18, 15, 24, 18, 17, 14, 17, 20, 21, 18, 20, 15, 19, 19, 21, 20, 18, 20, 17, 15, 16, 14, 11, 16, 16, 15, 14, 8, 7, 8, 3], "backgroundColor": "#3498db", "borderColor": "#3498db", "fill": false}, {"label": "cycling", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], "backgroundColor": "#2ecc71", "borderColor": "#2ecc71", "fill": false}, {"label": "walking", "data": [31, 27, 32, 34, 36, 32, 34, 34, 31, 32, 31, 31, 31, 32, 29, 29, 31, 30, 31, 29, 31, 31, 31, 29, 34, 34, 35, 33, 32, 31, 33, 33], "backgroundColor": "#f39c12", "borderColor": "#f39c12", "fill": false}, {"label": "rideshare", "data": [17, 6, 8, 7, 7, 9, 8, 8, 14, 14, 20, 15, 15, 10, 15, 13, 14, 17, 17, 14, 15, 14, 14, 12, 11, 14, 21, 24, 27, 28, 30, 33], "backgroundColor": "#9b59b6", "borderColor": "#9b59b6", "fill": false}]},
+  options: {
+    responsive: true,
+    scales: {
+      x: { title: { display: true, text: 'Time' } },
+      y: { title: { display: true, text: 'Number of Trips' }, stacked: false }
+    }
+  }
+});
+</script>
+</body>
+</html>
