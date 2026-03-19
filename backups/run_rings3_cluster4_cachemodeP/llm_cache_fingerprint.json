@@ -1,0 +1,3790 @@
+{
+  "0fdd31515fe013ef": [
+    {
+      "origin": "88268cda85fffff",
+      "destination": "88268cdae3fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:10",
+      "journal": "I left my rental in Denver just after 6 to drive across town for my early management shift, since I rely on my car for the long commute."
+    },
+    {
+      "origin": "88268cda85fffff",
+      "destination": "88268cda8dfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:20",
+      "journal": "I drove from my apartment in Denver to a nearby retail strip to grab a few groceries before the day got busy."
+    },
+    {
+      "origin": "88268cda85fffff",
+      "destination": "88268cda85fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:25",
+      "journal": "I took a short walk around my Denver neighborhood to clear my head before heading back inside for the morning."
+    }
+  ],
+  "7c20ce1290f9b9cf": [
+    {
+      "origin": "88268cda81fffff",
+      "destination": "88268cda89fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:10",
+      "journal": "I\u2019m leaving my apartment in Denver before sunrise and driving to my early shift across town, since my commute is long and I rely on my car."
+    },
+    {
+      "origin": "88268cda81fffff",
+      "destination": "88268cda81fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:20",
+      "journal": "I\u2019m heading out on foot for a short morning walk around my neighborhood in Denver to wake up before the day starts."
+    },
+    {
+      "origin": "88268cda81fffff",
+      "destination": "88268cda8bfffff",
+      "mode": "transit",
+      "purpose": "shopping",
+      "departure_time": "06:40",
+      "journal": "I\u2019m catching transit from my Denver neighborhood to pick up groceries and a few essentials, since I\u2019m traveling alone and don\u2019t need to drive for this errand."
+    }
+  ],
+  "23c5463f50dbbff6": [
+    {
+      "origin": "88268cda87fffff",
+      "destination": "88268cda85fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I left my apartment in Denver a little after 6 to drive east for my long commute, since keeping a car is the easiest way for me to get to work on time."
+    },
+    {
+      "origin": "88268cda87fffff",
+      "destination": "88268cdaabfffff",
+      "mode": "rideshare",
+      "purpose": "medical",
+      "departure_time": "06:15",
+      "journal": "I booked a rideshare from my Denver rental to an early medical appointment because I didn't want to deal with parking or a cold walk before sunrise."
+    },
+    {
+      "origin": "88268cda87fffff",
+      "destination": "88268cda87fffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "06:25",
+      "journal": "I walked a few blocks in Denver to grab coffee and breakfast nearby, which is one of the few trips I can easily do without driving."
+    }
+  ],
+  "ad41ebe75e6eeb2a": [
+    {
+      "origin": "88268cda8dfffff",
+      "destination": "88268cdae3fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I left my apartment in Denver before sunrise and drove to my early shift, since relying on my car is the easiest way to make my long commute work."
+    },
+    {
+      "origin": "88268cda8dfffff",
+      "destination": "88268cda8dfffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "06:15",
+      "journal": "I walked a few blocks in Denver to grab coffee and breakfast nearby because it was quicker than moving my car for such a short trip."
+    },
+    {
+      "origin": "88268cda8dfffff",
+      "destination": "88268cda89fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:25",
+      "journal": "I drove across Denver to pick up groceries on my way home, since as a single renter I usually bundle errands to avoid extra trips."
+    }
+  ],
+  "dbf0790b6036859a": [
+    {
+      "origin": "88268cda83fffff",
+      "destination": "88268cda8bfffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:00",
+      "journal": "I left my apartment in Denver early and drove across town for my morning shift, since my job is too far to realistically reach without a car."
+    },
+    {
+      "origin": "88268cda83fffff",
+      "destination": "88268cda95fffff",
+      "mode": "transit",
+      "purpose": "recreation",
+      "departure_time": "06:10",
+      "journal": "I caught a bus from my neighborhood in Denver to get a quick workout in and save on parking, since I\u2019m usually car-dependent but will use transit when it fits."
+    },
+    {
+      "origin": "88268cda83fffff",
+      "destination": "88268cda83fffff",
+      "mode": "walking",
+      "purpose": "shopping",
+      "departure_time": "06:20",
+      "journal": "I walked to a nearby convenience store in Denver to grab coffee and a few essentials before heading back home."
+    }
+  ],
+  "fb3ea31e924faeb6": [
+    {
+      "origin": "88268cdac7fffff",
+      "destination": "88268cdac1fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I left my apartment in Denver early and drove to my morning shift across town because my job starts before the buses are convenient for my commute."
+    },
+    {
+      "origin": "88268cdac7fffff",
+      "destination": "88268cdaebfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:15",
+      "journal": "I drove to a nearby grocery store in Denver to grab a few things for the week before traffic gets heavier."
+    },
+    {
+      "origin": "88268cdac7fffff",
+      "destination": "88268cdac7fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:25",
+      "journal": "I took a short walk around my neighborhood in Denver to clear my head before heading back inside for the day."
+    }
+  ],
+  "3d39c7edad246ab6": [
+    {
+      "origin": "88268cda89fffff",
+      "destination": "88268cdac7fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I left my apartment in Denver just after 6 to drive across town to my early shift, since my long commute and car-dependent routine make the car the only practical option."
+    },
+    {
+      "origin": "88268cda89fffff",
+      "destination": "88268cda8dfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:15",
+      "journal": "I drove to a nearby grocery store in Denver to grab a few essentials before the day got busy, which is easier for me than trying to fit errands into transit."
+    },
+    {
+      "origin": "88268cda89fffff",
+      "destination": "88268cda89fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:25",
+      "journal": "I stepped out for a short walk around my neighborhood in Denver to clear my head before work, taking advantage of the nearby streets even though I rely on my car for most trips."
+    }
+  ],
+  "00d452d92e21467d": [
+    {
+      "origin": "88268cda8bfffff",
+      "destination": "88268cda89fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I left my apartment in Denver before sunrise and drove to an early shift downtown, since keeping a car makes my 90-minute commute manageable."
+    },
+    {
+      "origin": "88268cda8bfffff",
+      "destination": "88268cda9dfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:15",
+      "journal": "I drove to a nearby grocery store in Denver to grab breakfast and a few things before the workday starts."
+    },
+    {
+      "origin": "88268cda8bfffff",
+      "destination": "88268cdad7fffff",
+      "mode": "rideshare",
+      "purpose": "social",
+      "departure_time": "06:25",
+      "journal": "I ordered a rideshare from my renter apartment in Denver to meet a friend for an early coffee on the other side of town."
+    }
+  ],
+  "11fe19fe8358ce9c": [
+    {
+      "origin": "88268cdaebfffff",
+      "destination": "88268cda8dfffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I left my apartment in Denver before sunrise and drove east to my early shift, since owning a car makes this long commute much more manageable for me."
+    },
+    {
+      "origin": "88268cdaebfffff",
+      "destination": "88268cdac7fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:15",
+      "journal": "I hopped in my car to grab a few groceries and coffee from a nearby retail area in Denver before the day gets busy."
+    },
+    {
+      "origin": "88268cdaebfffff",
+      "destination": "88268cdaebfffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:25",
+      "journal": "I took a short walk around my neighborhood in Denver to wake up and get some fresh air before heading back inside."
+    }
+  ],
+  "c4d043f91996ae44": [
+    {
+      "origin": "88268cdaabfffff",
+      "destination": "88268cdaa9fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I leave my place in Denver just after 6 to drive across town for an early management meeting before the morning traffic builds."
+    },
+    {
+      "origin": "88268cdaabfffff",
+      "destination": "88268cdabdfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:15",
+      "journal": "I hop in my car to pick up a few groceries and household items at a nearby retail center while the stores are still quiet."
+    },
+    {
+      "origin": "88268cdaabfffff",
+      "destination": "88268cdaabfffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:25",
+      "journal": "I take a quick walk around my Denver neighborhood for some early exercise before heading back inside to start the day."
+    }
+  ],
+  "75ad70c7acf72e5c": [
+    {
+      "origin": "88268cdae3fffff",
+      "destination": "88268cdae1fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I leave my apartment in Denver before sunrise and drive to a nearby office corridor for an early management meeting, since my schedule is packed and I rely on my car."
+    },
+    {
+      "origin": "88268cdae3fffff",
+      "destination": "88268cda8dfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:15",
+      "journal": "I hop in my SUV and drive to a retail area to grab coffee, breakfast, and a few things for the house before the day gets busy."
+    },
+    {
+      "origin": "88268cdae3fffff",
+      "destination": "88268cdae3fffff",
+      "mode": "rideshare",
+      "purpose": "social",
+      "departure_time": "06:25",
+      "journal": "I book a rideshare for an early airport-style pickup to meet a colleague in the neighborhood and avoid the hassle of parking."
+    }
+  ],
+  "c7f085ae84e51ee9": [
+    {
+      "origin": "88268cdaa9fffff",
+      "destination": "88268cdae7fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I headed out early in my car for my 7 a.m. shift across town, because the bus would take too long from my apartment in Denver."
+    },
+    {
+      "origin": "88268cdaa9fffff",
+      "destination": "88268cdaabfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:12",
+      "journal": "I drove to grab groceries and cheap coffee before work, since I need to stock up while I\u2019ve got the car."
+    },
+    {
+      "origin": "88268cdaa9fffff",
+      "destination": "88268cdaa9fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:24",
+      "journal": "I walked a few blocks to get some fresh air and clear my head before the day starts in Denver."
+    }
+  ],
+  "1f5314dd8d7fc773": [
+    {
+      "origin": "88268cdabdfffff",
+      "destination": "88268cdab1fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I leave my apartment early in my car to beat traffic on the way to my management job across Denver, since my commute is usually a long one."
+    },
+    {
+      "origin": "88268cdabdfffff",
+      "destination": "88268cdaabfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:15",
+      "journal": "I drive to a nearby grocery store for a quick early stop to pick up coffee and a few basics before the day gets busy."
+    },
+    {
+      "origin": "88268cdabdfffff",
+      "destination": "88268cdabdfffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:25",
+      "journal": "I take a short walk around my neighborhood in Denver to wake up before heading back inside for the morning."
+    }
+  ],
+  "65884bc36d98418a": [
+    {
+      "origin": "88268cdab9fffff",
+      "destination": "88268cdab1fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I left my apartment in Denver early this morning and drove to my job across town because my commute is long and I need to be at the office before the day gets busy."
+    },
+    {
+      "origin": "88268cdab9fffff",
+      "destination": "88268cda95fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:15",
+      "journal": "I drove out to a nearby grocery store in Denver to grab a few essentials before work, since it is easier than trying to piece together transit this early."
+    },
+    {
+      "origin": "88268cdab9fffff",
+      "destination": "88268cdab9fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:25",
+      "journal": "I took a short walk around my neighborhood in Denver to wake up and get some fresh air before starting my day."
+    }
+  ],
+  "a12948ff9a58b9af": [
+    {
+      "origin": "88268cda95fffff",
+      "destination": "88268cda91fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I left my apartment in Denver before sunrise and drove south to my early shift, since my commute is long and I rely on my car to get there on time."
+    },
+    {
+      "origin": "88268cda95fffff",
+      "destination": "88268cda97fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:15",
+      "journal": "I drove a few minutes to grab groceries and coffee nearby, trying to beat the morning rush before heading back home."
+    },
+    {
+      "origin": "88268cda95fffff",
+      "destination": "88268cda95fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:25",
+      "journal": "I took a short walk around my neighborhood in Denver to wake up and get some fresh air before the day really started."
+    }
+  ],
+  "641e5287402f78f3": [
+    {
+      "origin": "88268cdad7fffff",
+      "destination": "88268cdad3fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:10",
+      "journal": "I left my apartment in Denver before sunrise and drove to my management job across town, since my commute is long and I rely on my car."
+    },
+    {
+      "origin": "88268cdad7fffff",
+      "destination": "88268cda99fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:20",
+      "journal": "I drove to a nearby retail area to pick up a few groceries and household items on my way to work, which is easier than trying to carry everything on transit."
+    },
+    {
+      "origin": "88268cdad7fffff",
+      "destination": "88268cdad7fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:35",
+      "journal": "I took a short walk around my Denver neighborhood to clear my head before the day starts, since I mostly use my car for longer trips."
+    }
+  ],
+  "680984f98491d79d": [
+    {
+      "origin": "88268cdad5fffff",
+      "destination": "88268cdad1fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I left my condo in Denver before sunrise and drove to an early client meeting across town, since my commute is long and I rely on my car."
+    },
+    {
+      "origin": "88268cdad5fffff",
+      "destination": "88268cdaddfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:15",
+      "journal": "I drove to an upscale grocery store in Denver to pick up a few premium items before the day got busy."
+    },
+    {
+      "origin": "88268cdad5fffff",
+      "destination": "88268cdad5fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:25",
+      "journal": "I took a short walk around my neighborhood in Denver to clear my head before heading back inside."
+    }
+  ],
+  "488d3cfdda7e8895": [
+    {
+      "origin": "88268cda9dfffff",
+      "destination": "88268cda91fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I left my apartment in Denver a little after 6 to drive to an early shift, since I rely on my car and my commute is usually too long to make transit worth it."
+    },
+    {
+      "origin": "88268cda9dfffff",
+      "destination": "88268cda99fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:12",
+      "journal": "I drove over to a nearby grocery store in Denver to grab breakfast items and a few things for the week before the morning rush."
+    },
+    {
+      "origin": "88268cda9dfffff",
+      "destination": "88268cda9dfffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:24",
+      "journal": "I took a quick walk around my neighborhood in Denver to get some air before starting the rest of my day, since I like squeezing in a short walk when I can."
+    }
+  ],
+  "4ec13b146bbb6d99": [
+    {
+      "origin": "88268cdac3fffff",
+      "destination": "88268cdac1fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I left my apartment in Denver a little after 6 to drive to my early shift, since I rely on my car and the commute is too long for transit at this hour."
+    },
+    {
+      "origin": "88268cdac3fffff",
+      "destination": "88268cdaddfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:15",
+      "journal": "I headed out by car to grab groceries and a few household items before the stores get busy, which is easier for me than carrying everything on transit."
+    },
+    {
+      "origin": "88268cdac3fffff",
+      "destination": "88268cdac3fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:25",
+      "journal": "I took a short walk around my Denver neighborhood to get some fresh air before starting the day, since I wanted a quick break close to home."
+    }
+  ],
+  "3442ed2f16b8a641": [
+    {
+      "origin": "88268cdae9fffff",
+      "destination": "88268cdae1fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I left my apartment in Denver early and drove to my job across town because my commute is long and I rely on my car most days."
+    },
+    {
+      "origin": "88268cdae9fffff",
+      "destination": "88268cdae9fffff",
+      "mode": "walking",
+      "purpose": "shopping",
+      "departure_time": "06:15",
+      "journal": "I walked to a nearby convenience store in my Denver neighborhood to grab a few breakfast items before heading out for the day."
+    },
+    {
+      "origin": "88268cdae9fffff",
+      "destination": "88268cdac5fffff",
+      "mode": "driving",
+      "purpose": "recreation",
+      "departure_time": "06:25",
+      "journal": "I drove to a nearby Denver park for a quick morning workout since I have a car and usually bundle errands or activities into one trip."
+    }
+  ],
+  "f922586f1fd389e0": [
+    {
+      "origin": "88268cdac5fffff",
+      "destination": "88268cdae9fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I left my apartment in Denver just after 6 to drive across town to my early shift, since my long commute and car-dependent routine make driving the most reliable option."
+    },
+    {
+      "origin": "88268cdac5fffff",
+      "destination": "88268cdac5fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:15",
+      "journal": "I took a short walk around my neighborhood in Denver before the day got busy, using the local streets and nearby recreation spots to get a quick morning reset."
+    },
+    {
+      "origin": "88268cdac5fffff",
+      "destination": "88268cdac7fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:25",
+      "journal": "I drove to a nearby retail area in Denver to grab groceries and a few essentials, which is easier for me as a renter living alone without depending on transit."
+    }
+  ],
+  "d25c63b0cfe2ae30": [
+    {
+      "origin": "88268cdac1fffff",
+      "destination": "88268cdac5fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I left my apartment in Denver before sunrise and drove north to my early shift, since owning a car makes the long commute manageable for me."
+    },
+    {
+      "origin": "88268cdac1fffff",
+      "destination": "88268cdac7fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:15",
+      "journal": "I drove to a nearby grocery store to grab breakfast and a few things for the week, which is easier than relying on transit this early."
+    },
+    {
+      "origin": "88268cdac1fffff",
+      "destination": "88268cdac1fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:25",
+      "journal": "I took a short walk around my neighborhood in Denver to wake up and clear my head before starting the day."
+    }
+  ],
+  "af11b73ac47378a0": [
+    {
+      "origin": "88268cdae7fffff",
+      "destination": "88268cdaa9fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I left my apartment in Denver before sunrise and drove across town to get to my early shift, since my commute is long and I rely on my car most days."
+    },
+    {
+      "origin": "88268cdae7fffff",
+      "destination": "88268cdaadfffff",
+      "mode": "transit",
+      "purpose": "other",
+      "departure_time": "06:15",
+      "journal": "I caught an early bus from my Denver neighborhood to the grocery corridor, using transit because I don\u2019t want to move my car for a short errand."
+    },
+    {
+      "origin": "88268cdae7fffff",
+      "destination": "88268cdae7fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:25",
+      "journal": "I took a quick walk around my Denver block to wake up and clear my head before the day starts."
+    }
+  ],
+  "6476d19591b4d63e": [
+    {
+      "origin": "88268cdae1fffff",
+      "destination": "88268cdae7fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I leave my apartment in Denver early and drive to my management job across town before traffic gets worse."
+    },
+    {
+      "origin": "88268cdae1fffff",
+      "destination": "88268cdae1fffff",
+      "mode": "walking",
+      "purpose": "shopping",
+      "departure_time": "06:12",
+      "journal": "I walk a few blocks in Denver to grab a couple of grocery items from the nearby store before heading back home."
+    },
+    {
+      "origin": "88268cdae1fffff",
+      "destination": "88268cdae9fffff",
+      "mode": "transit",
+      "purpose": "recreation",
+      "departure_time": "06:20",
+      "journal": "I take transit from my renter apartment in Denver to meet a friend for an early workout and coffee near another neighborhood."
+    }
+  ],
+  "5f08091c59c700a8": [
+    {
+      "origin": "88268cdaadfffff",
+      "destination": "88268cdaa1fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I\u2019m heading out in my car before sunrise for my early shift across Denver since the bus is too slow for my 90-minute commute."
+    },
+    {
+      "origin": "88268cdaadfffff",
+      "destination": "88268cdaa9fffff",
+      "mode": "transit",
+      "purpose": "school",
+      "departure_time": "06:15",
+      "journal": "I\u2019m catching the first transit run to my morning class, hoping to save gas because rent and groceries already take most of my paycheck."
+    },
+    {
+      "origin": "88268cdaadfffff",
+      "destination": "88268cdaadfffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "06:25",
+      "journal": "I\u2019m walking to a nearby diner for a cheap breakfast before work since I can\u2019t afford to drive everywhere for short trips."
+    }
+  ],
+  "2cf33bef4f0684d6": [
+    {
+      "origin": "88268cdab5fffff",
+      "destination": "88268cdaa3fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I grabbed my coffee and drove out of my Denver apartment area early for my morning shift across town."
+    },
+    {
+      "origin": "88268cdab5fffff",
+      "destination": "88268cdabdfffff",
+      "mode": "transit",
+      "purpose": "shopping",
+      "departure_time": "06:12",
+      "journal": "I hopped on transit in Denver to get to a grocery store near work because I need a few things before my day starts."
+    },
+    {
+      "origin": "88268cdab5fffff",
+      "destination": "88268cdab5fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:24",
+      "journal": "I took a quick walk around my neighborhood in Denver to clear my head before heading back inside."
+    }
+  ],
+  "948429ac60aff82c": [
+    {
+      "origin": "88268cdab1fffff",
+      "destination": "88268cdabdfffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I leave my apartment in Denver just after 6 to drive across town for my long morning shift, since owning a car makes these early commutes much easier for me."
+    },
+    {
+      "origin": "88268cdab1fffff",
+      "destination": "88268cdab1fffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "06:15",
+      "journal": "I walk a few blocks in Denver to grab breakfast from a nearby cafe before the day gets busy, since it is easier than moving my car for such a short trip."
+    },
+    {
+      "origin": "88268cdab1fffff",
+      "destination": "88268cdab9fffff",
+      "mode": "rideshare",
+      "purpose": "social",
+      "departure_time": "06:25",
+      "journal": "I take a rideshare from my Denver apartment to meet a friend in another neighborhood for an early coffee, because I do not want to deal with parking this morning."
+    }
+  ],
+  "20b5a3eb2189cb83": [
+    {
+      "origin": "88268cdabbfffff",
+      "destination": "88268cdab9fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I left my apartment early in my car for an early shift across Denver, since my commute is long and driving is the most reliable way to get there on time."
+    },
+    {
+      "origin": "88268cdabbfffff",
+      "destination": "88268cda95fffff",
+      "mode": "transit",
+      "purpose": "other",
+      "departure_time": "06:15",
+      "journal": "I hopped on transit toward a nearby part of Denver to transfer and keep my morning commute from becoming a stressful drive."
+    },
+    {
+      "origin": "88268cdabbfffff",
+      "destination": "88268cdabbfffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:25",
+      "journal": "Before heading fully into the workday, I took a short walk around my neighborhood in Denver to wake up and get some fresh air."
+    }
+  ],
+  "377e70030870bdc2": [
+    {
+      "origin": "88268cda97fffff",
+      "destination": "88268cda95fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I left my home in Denver by car just after 6 to beat traffic for an early management meeting downtown."
+    },
+    {
+      "origin": "88268cda97fffff",
+      "destination": "88268cdabbfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:15",
+      "journal": "I drove to an upscale grocery and pharmacy run in Denver before the day got busy."
+    },
+    {
+      "origin": "88268cda97fffff",
+      "destination": "88268cda97fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:25",
+      "journal": "I took a short walk around my Denver neighborhood for some morning exercise before heading back inside."
+    }
+  ],
+  "3912910b65d27905": [
+    {
+      "origin": "88268cda91fffff",
+      "destination": "88268cda9dfffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I drove out early from my home in Denver to beat traffic on my 90-minute commute to a management meeting across town."
+    },
+    {
+      "origin": "88268cda91fffff",
+      "destination": "88268cda91fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:12",
+      "journal": "I took a short walk around my neighborhood in Denver before the day got busy, enjoying the quiet streets and cool morning air."
+    },
+    {
+      "origin": "88268cda91fffff",
+      "destination": "88268cda97fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:20",
+      "journal": "I hopped in my car to pick up a few things from a nearby retail area in Denver, since driving is the easiest option for my family."
+    }
+  ],
+  "26d2be6942571394": [
+    {
+      "origin": "88268cdaa3fffff",
+      "destination": "88268cdaabfffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I left my apartment in my old sedan before sunrise and drove across Denver to start my shift at a warehouse job."
+    },
+    {
+      "origin": "88268cdaa3fffff",
+      "destination": "88268cdaa3fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:15",
+      "journal": "I hopped in my car to grab a few groceries and coffee from the nearby retail strip since I needed breakfast before work."
+    },
+    {
+      "origin": "88268cdaa3fffff",
+      "destination": "88268cdabdfffff",
+      "mode": "driving",
+      "purpose": "recreation",
+      "departure_time": "06:25",
+      "journal": "After my early errands, I drove out to the next part of Denver to meet a friend for a quick gym session before the day got busy."
+    }
+  ],
+  "74eb0d44a657cf7d": [
+    {
+      "origin": "88268cda99fffff",
+      "destination": "88268cda91fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I left my apartment in Denver before sunrise and drove to an early shift across town because my commute is long and the car is the only realistic way I can get there on time."
+    },
+    {
+      "origin": "88268cda99fffff",
+      "destination": "88268cda99fffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "06:18",
+      "journal": "I walked a few blocks to grab coffee and a breakfast sandwich from a nearby spot since it was easier than moving my car for a short local trip."
+    },
+    {
+      "origin": "88268cda99fffff",
+      "destination": "88268cdad7fffff",
+      "mode": "rideshare",
+      "purpose": "medical",
+      "departure_time": "06:27",
+      "journal": "I booked a rideshare to an early medical appointment in another Denver area because it was too early for transit and I did not want to deal with parking."
+    }
+  ],
+  "519b096cb361c90c": [
+    {
+      "origin": "88268cdad3fffff",
+      "destination": "88268cdad1fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I left my place in Denver before sunrise and drove across town to get to the office early, since my commute is long and I rely on my car."
+    },
+    {
+      "origin": "88268cdad3fffff",
+      "destination": "88268cda99fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:15",
+      "journal": "I drove to a nearby retail area to grab a few things and coffee on the way, which is usually the easiest option for me in this part of Denver."
+    },
+    {
+      "origin": "88268cdad3fffff",
+      "destination": "88268cdad3fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:25",
+      "journal": "I took a short walk in the neighborhood for some early-morning exercise before the day gets busy."
+    }
+  ],
+  "46c24ed13889e471": [
+    {
+      "origin": "88268cdacbfffff",
+      "destination": "88268cdac1fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I\u2019m leaving my apartment in Denver early by car to beat traffic on the way to my morning shift downtown."
+    },
+    {
+      "origin": "88268cdacbfffff",
+      "destination": "88268cdaddfffff",
+      "mode": "rideshare",
+      "purpose": "dining",
+      "departure_time": "06:15",
+      "journal": "I\u2019m taking a rideshare across Denver for breakfast with a friend since I don\u2019t feel like dealing with parking this early."
+    },
+    {
+      "origin": "88268cdacbfffff",
+      "destination": "88268cdacbfffff",
+      "mode": "walking",
+      "purpose": "shopping",
+      "departure_time": "06:25",
+      "journal": "I\u2019m walking to a nearby convenience store in my Denver neighborhood to grab coffee and a few things before heading home."
+    }
+  ],
+  "75cadedcf79c89bf": [
+    {
+      "origin": "88268cdaddfffff",
+      "destination": "88268cdacbfffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I left my place in my SUV just after 6 to beat traffic on the way to an early client meeting downtown, since my commute from Denver usually takes forever later in the morning."
+    },
+    {
+      "origin": "88268cdaddfffff",
+      "destination": "88268cdad1fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:15",
+      "journal": "I drove over to pick up a few groceries and coffee before the day got busy, because it is easier to stop at a nearby store than deal with transit with my schedule."
+    },
+    {
+      "origin": "88268cdaddfffff",
+      "destination": "88268cdaddfffff",
+      "mode": "rideshare",
+      "purpose": "dining",
+      "departure_time": "06:25",
+      "journal": "I booked a rideshare for an early dinner reservation in the area so I could relax and not worry about parking or driving after a long workday."
+    }
+  ],
+  "1bde5e44f9d88c3b": [
+    {
+      "origin": "88268cdad1fffff",
+      "destination": "88268cdaddfffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:05",
+      "journal": "I left my apartment in Denver just after 6 to drive to an early management meeting downtown before traffic builds up on the commute."
+    },
+    {
+      "origin": "88268cdad1fffff",
+      "destination": "88268cdad3fffff",
+      "mode": "rideshare",
+      "purpose": "dining",
+      "departure_time": "06:15",
+      "journal": "I booked a rideshare from Denver to meet a colleague for an early dinner so I could avoid parking and relax on the way."
+    },
+    {
+      "origin": "88268cdad1fffff",
+      "destination": "88268cdad1fffff",
+      "mode": "walking",
+      "purpose": "shopping",
+      "departure_time": "06:25",
+      "journal": "I took a short walk in Denver to pick up a few things from a nearby retail spot before heading back home."
+    }
+  ],
+  "1e2430439b9fc843": [
+    {
+      "origin": "88268cda85fffff",
+      "destination": "88268cdae3fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I left my rental in Denver at 6:30 AM and drove across town to my early shift, since the commute is too long to rely on transit this morning."
+    },
+    {
+      "origin": "88268cda85fffff",
+      "destination": "88268cdaabfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:40",
+      "journal": "I headed out by car from my Denver apartment to pick up groceries before work, because it is easier to stop at a nearby store than deal with multiple trips later."
+    },
+    {
+      "origin": "88268cda85fffff",
+      "destination": "88268cda85fffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "06:55",
+      "journal": "I walked out from my rental in Denver to grab a quick breakfast nearby, since I do not need the car for a short local stop this morning."
+    }
+  ],
+  "eba2a018453d353a": [
+    {
+      "origin": "88268cda8dfffff",
+      "destination": "88268cdae3fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I left my apartment in the car just after 6:30 to beat traffic on my 90-minute commute to a management job across Denver."
+    },
+    {
+      "origin": "88268cda8dfffff",
+      "destination": "88268cda81fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:42",
+      "journal": "I drove a few minutes to a nearby retail strip in Denver to grab coffee and a couple of groceries before heading to work."
+    },
+    {
+      "origin": "88268cda8dfffff",
+      "destination": "88268cda8dfffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:55",
+      "journal": "I took a short walk around my apartment block in Denver to wake up before the morning rush, since I mostly rely on my car for longer trips."
+    }
+  ],
+  "4434768888a6bbb7": [
+    {
+      "origin": "88268cda81fffff",
+      "destination": "88268cda8dfffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I left my apartment in the neighborhood just after 6:30 and drove east toward my office, since my commute is usually too long to realistically do without the car."
+    },
+    {
+      "origin": "88268cda81fffff",
+      "destination": "88268cda81fffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "06:40",
+      "journal": "I walked down the block for a quick breakfast coffee and sandwich from a nearby cafe before heading out for the day."
+    },
+    {
+      "origin": "88268cda81fffff",
+      "destination": "88268cda85fffff",
+      "mode": "rideshare",
+      "purpose": "medical",
+      "departure_time": "06:50",
+      "journal": "I ordered a rideshare to a medical appointment in a nearby Denver zone so I wouldn't have to deal with parking this early."
+    }
+  ],
+  "82b7fc5d5885c5db": [
+    {
+      "origin": "88268cda87fffff",
+      "destination": "88268cda85fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I left my apartment in my car just after 6:30 to get a jump on my 90-minute commute to my management job in Denver before traffic got heavier."
+    },
+    {
+      "origin": "88268cda87fffff",
+      "destination": "88268cdaabfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:40",
+      "journal": "I drove out for an early grocery run at a nearby retail area, since it is easier for me to shop by car before work."
+    },
+    {
+      "origin": "88268cda87fffff",
+      "destination": "88268cda87fffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "06:55",
+      "journal": "I walked down the block to grab coffee and breakfast from a neighborhood cafe in Denver before heading back home."
+    }
+  ],
+  "d15c83ea1846d92f": [
+    {
+      "origin": "88268cda8bfffff",
+      "destination": "88268cda89fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I left my apartment in Denver a little before sunrise and drove to a nearby office zone for my morning shift, since I depend on my car for the long commute."
+    },
+    {
+      "origin": "88268cda8bfffff",
+      "destination": "88268cda9dfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:40",
+      "journal": "I hopped in my car to grab groceries and a few essentials at a retail area in Denver before traffic got worse."
+    },
+    {
+      "origin": "88268cda8bfffff",
+      "destination": "88268cdad7fffff",
+      "mode": "transit",
+      "purpose": "recreation",
+      "departure_time": "06:55",
+      "journal": "I took transit from my Denver neighborhood toward a nearby recreation area for an early workout, since the bus is a decent backup when I want to avoid driving."
+    }
+  ],
+  "4f96c35548fc5729": [
+    {
+      "origin": "88268cda89fffff",
+      "destination": "88268cdac7fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I left my apartment in Denver just after 6:30 in my car for my long commute to my job downtown, since driving is still the most reliable option for me."
+    },
+    {
+      "origin": "88268cda89fffff",
+      "destination": "88268cda8dfffff",
+      "mode": "transit",
+      "purpose": "work",
+      "departure_time": "06:40",
+      "journal": "I caught an early RTD bus from my neighborhood in Denver to get closer to work, figuring the morning traffic would be easier to avoid this way."
+    },
+    {
+      "origin": "88268cda89fffff",
+      "destination": "88268cda89fffff",
+      "mode": "walking",
+      "purpose": "shopping",
+      "departure_time": "06:55",
+      "journal": "I walked a few blocks in my Denver neighborhood to grab coffee and a couple groceries before heading into the rest of my day."
+    }
+  ],
+  "4fe6e18c4b39b292": [
+    {
+      "origin": "88268cda83fffff",
+      "destination": "88268cda81fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I left my apartment in Denver early to drive to my management job before traffic got worse, since my 90-minute commute usually starts with me getting on the road right at 6:30."
+    },
+    {
+      "origin": "88268cda83fffff",
+      "destination": "88268cda95fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:40",
+      "journal": "I drove a few blocks in Denver to pick up groceries and coffee after realizing I was out of breakfast staples and wanted to avoid stopping later after work."
+    },
+    {
+      "origin": "88268cda83fffff",
+      "destination": "88268cda83fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:50",
+      "journal": "I took a short walk around my Denver neighborhood to wake up before work, since I live alone and like squeezing in a quick loop even on busy mornings."
+    }
+  ],
+  "1c1681a51681e0d4": [
+    {
+      "origin": "88268cdac7fffff",
+      "destination": "88268cdaebfffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:35",
+      "journal": "I left my apartment in Denver just after 6:30 and drove east toward my downtown office for an early shift, since my job is too far for a practical transit commute."
+    },
+    {
+      "origin": "88268cdac7fffff",
+      "destination": "88268cdac7fffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "06:50",
+      "journal": "I walked a few blocks from my renter apartment to grab coffee and a breakfast burrito before heading to work, since the neighborhood has enough nearby spots for a quick stop."
+    },
+    {
+      "origin": "88268cdac7fffff",
+      "destination": "88268cda89fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:55",
+      "journal": "I drove from my place in Denver to a nearby grocery store area to pick up a few essentials on the way to my long commute, which is easier than trying to carry everything on transit."
+    }
+  ],
+  "229a4e953f859f28": [
+    {
+      "origin": "88268cdaa9fffff",
+      "destination": "88268cdae3fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I left my apartment in Denver at 6:30 to drive across town for my early shift, since the bus would take too long and I need the car to make my 90-minute commute manageable."
+    },
+    {
+      "origin": "88268cdaa9fffff",
+      "destination": "88268cdaabfffff",
+      "mode": "transit",
+      "purpose": "shopping",
+      "departure_time": "06:41",
+      "journal": "I caught a bus from my place in Denver to grab groceries before work, because I\u2019m renting and trying to save gas money even though I usually rely on my car."
+    },
+    {
+      "origin": "88268cdaa9fffff",
+      "destination": "88268cdaa9fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:52",
+      "journal": "I walked around my Denver neighborhood for a quick morning reset before heading into the day, since I don\u2019t have much free time and I like getting outside before work."
+    }
+  ],
+  "d5991acd9caf4254": [
+    {
+      "origin": "88268cdaebfffff",
+      "destination": "88268cdae9fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:34",
+      "journal": "I left my apartment in Denver a little after 6:30 and drove to my office on the east side, since my long commute makes the car the only realistic option this morning."
+    },
+    {
+      "origin": "88268cdaebfffff",
+      "destination": "88268cdac7fffff",
+      "mode": "transit",
+      "purpose": "other",
+      "departure_time": "06:41",
+      "journal": "I caught a bus from Denver for a quick errand near a nearby retail area, using transit because parking is annoying even though I usually depend on my car."
+    },
+    {
+      "origin": "88268cdaebfffff",
+      "destination": "88268cdaebfffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:47",
+      "journal": "I stepped out for a short walk around my Denver neighborhood before the day got busy, since it is one of the few trips I can comfortably do without driving."
+    }
+  ],
+  "eda73e6956fb2a02": [
+    {
+      "origin": "88268cdae3fffff",
+      "destination": "88268cdae7fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:35",
+      "journal": "I left my apartment in Denver a little before 6:40, driving to a professional office across town since my commute is long and I rely on my car to get there on time."
+    },
+    {
+      "origin": "88268cdae3fffff",
+      "destination": "88268cda85fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:45",
+      "journal": "After dropping off a list of errands, I drove out from my place in Denver to pick up groceries and a few household items before the day got busy."
+    },
+    {
+      "origin": "88268cdae3fffff",
+      "destination": "88268cdae3fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:50",
+      "journal": "I took a short walk around my Denver neighborhood to clear my head before work, since it is an easy way to fit in a quick morning routine."
+    }
+  ],
+  "31d6db96fe1baf8f": [
+    {
+      "origin": "88268cdaabfffff",
+      "destination": "88268cda87fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I left my Denver home just after 6:30 in the SUV, heading across town for an early management meeting before the traffic gets any worse."
+    },
+    {
+      "origin": "88268cdaabfffff",
+      "destination": "88268cdabdfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:40",
+      "journal": "I drove over to a nearby retail area in Denver to pick up a few groceries and household items on my way into the day."
+    },
+    {
+      "origin": "88268cdaabfffff",
+      "destination": "88268cdaa3fffff",
+      "mode": "rideshare",
+      "purpose": "recreation",
+      "departure_time": "06:50",
+      "journal": "I grabbed a rideshare from my Denver neighborhood to a recreation spot for an early workout before work."
+    }
+  ],
+  "8152f940b73830de": [
+    {
+      "origin": "88268cdab9fffff",
+      "destination": "88268cdabdfffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I leave my apartment in Denver before the traffic builds and drive across town to my office for my morning shift."
+    },
+    {
+      "origin": "88268cdab9fffff",
+      "destination": "88268cda95fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:40",
+      "journal": "I hop in my car for a quick stop at a grocery store near Denver to grab breakfast items and a few things for the week."
+    },
+    {
+      "origin": "88268cdab9fffff",
+      "destination": "88268cdab9fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:50",
+      "journal": "I take a short walk around my neighborhood in Denver to get some fresh air before heading back home."
+    }
+  ],
+  "e6033fea46c7cbdc": [
+    {
+      "origin": "88268cda9dfffff",
+      "destination": "88268cda83fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:34",
+      "journal": "I left my apartment in Denver just after 6:30 to drive to my morning shift, since I rely on my car for a long commute."
+    },
+    {
+      "origin": "88268cda9dfffff",
+      "destination": "88268cda95fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:41",
+      "journal": "I drove across Denver to grab a quick grocery order before work, because it is easier for me than carrying bags on transit."
+    },
+    {
+      "origin": "88268cda9dfffff",
+      "destination": "88268cda9dfffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:48",
+      "journal": "I took a short walk around my neighborhood in Denver to wake up before the day gets busy."
+    }
+  ],
+  "1c441df60bad2766": [
+    {
+      "origin": "88268cda95fffff",
+      "destination": "88268cda83fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:34",
+      "journal": "I left my apartment in Denver just after 6:30 to drive across town for my morning shift, since living alone in this car-dependent area makes driving the most reliable way to get to work on time."
+    },
+    {
+      "origin": "88268cda95fffff",
+      "destination": "88268cdab9fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:41",
+      "journal": "I hopped in my car from my Denver rental to grab a few groceries and coffee before the commute-heavy part of the morning starts."
+    },
+    {
+      "origin": "88268cda95fffff",
+      "destination": "88268cda95fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:48",
+      "journal": "I took a quick walk around my Denver neighborhood to clear my head before the workday, since I live alone and like getting a little exercise close to home."
+    }
+  ],
+  "86cd5ef5442c91cc": [
+    {
+      "origin": "88268cdabdfffff",
+      "destination": "88268cdaabfffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:32",
+      "journal": "I left my apartment in Denver before sunrise and drove across town to beat the traffic on my long commute to work."
+    },
+    {
+      "origin": "88268cdabdfffff",
+      "destination": "88268cdab5fffff",
+      "mode": "transit",
+      "purpose": "shopping",
+      "departure_time": "06:41",
+      "journal": "I caught an early bus from my place in Denver to grab a few groceries and coffee before heading into the office."
+    },
+    {
+      "origin": "88268cdabdfffff",
+      "destination": "88268cdabdfffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:18",
+      "journal": "I walked a few blocks around my Denver neighborhood to get some fresh air and clear my head before work."
+    }
+  ],
+  "04d1b375a27d93b0": [
+    {
+      "origin": "88268cdad7fffff",
+      "destination": "88268cdad5fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I left my apartment in Denver just after 6:30 and drove to my management job across town to beat the morning traffic."
+    },
+    {
+      "origin": "88268cdad7fffff",
+      "destination": "88268cda99fffff",
+      "mode": "transit",
+      "purpose": "shopping",
+      "departure_time": "06:40",
+      "journal": "I caught an early transit ride from my place in Denver to pick up groceries and a few things before my workday starts."
+    },
+    {
+      "origin": "88268cdad7fffff",
+      "destination": "88268cdad7fffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "06:55",
+      "journal": "I walked a few blocks in my Denver neighborhood to grab coffee and breakfast on the way to the rest of my morning."
+    }
+  ],
+  "9e193c7fb4ff7e44": [
+    {
+      "origin": "88268cdad5fffff",
+      "destination": "88268cdad1fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I left my apartment in Denver just after 6:30 to drive to a client meeting across town, since my commute is long and I rely on my car for an early start."
+    },
+    {
+      "origin": "88268cdad5fffff",
+      "destination": "88268cdaddfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:42",
+      "journal": "I hopped in my SUV for a quick stop at a nearby retail center in Denver to pick up a few things before the morning traffic gets heavier."
+    },
+    {
+      "origin": "88268cdad5fffff",
+      "destination": "88268cdad5fffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "06:55",
+      "journal": "I walked a few blocks in my Denver neighborhood to grab coffee and breakfast, which is the one errand I can easily do without driving."
+    }
+  ],
+  "288f6c198a3083bc": [
+    {
+      "origin": "88268cdac5fffff",
+      "destination": "88268cdae9fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:34",
+      "journal": "I left my apartment in Denver before sunrise and drove east toward my office, since my 90-minute commute means I need to get moving early."
+    },
+    {
+      "origin": "88268cdac5fffff",
+      "destination": "88268cdac1fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:41",
+      "journal": "I hopped in my car to grab a few groceries and coffee essentials at a nearby retail area before the morning rush."
+    },
+    {
+      "origin": "88268cdac5fffff",
+      "destination": "88268cdac5fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:48",
+      "journal": "I took a short walk around my neighborhood in Denver to wake up and get some fresh air before the workday starts."
+    }
+  ],
+  "60df2cc8ae8e609d": [
+    {
+      "origin": "88268cdac1fffff",
+      "destination": "88268cdac5fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I\u2019m leaving my apartment in Denver early to drive across town to my management job, trying to beat the worst of the morning traffic."
+    },
+    {
+      "origin": "88268cdac1fffff",
+      "destination": "88268cdac7fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:40",
+      "journal": "I\u2019m driving to a nearby grocery store in Denver to grab a few things before work since it\u2019s easier than relying on transit with my commute."
+    },
+    {
+      "origin": "88268cdac1fffff",
+      "destination": "88268cdac1fffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "06:55",
+      "journal": "I\u2019m taking a quick walk to a coffee spot in my Denver neighborhood for breakfast before heading out for the day."
+    }
+  ],
+  "54c558beacb4d7bf": [
+    {
+      "origin": "88268cdac3fffff",
+      "destination": "88268cdad5fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I left my apartment in Denver just after 6:30 to drive across town for my morning shift, since I need the car to make my long commute on time."
+    },
+    {
+      "origin": "88268cdac3fffff",
+      "destination": "88268cdac1fffff",
+      "mode": "transit",
+      "purpose": "work",
+      "departure_time": "06:40",
+      "journal": "I caught an early bus from my neighborhood in Denver toward my job area, using transit because parking downtown is a hassle even though I usually rely on my car."
+    },
+    {
+      "origin": "88268cdac3fffff",
+      "destination": "88268cdac3fffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "06:55",
+      "journal": "I walked a few blocks in Denver to grab breakfast from a nearby caf\u00e9 before heading out, since it was quicker than driving for such a short trip."
+    }
+  ],
+  "8ef91617859c35e7": [
+    {
+      "origin": "88268cdae9fffff",
+      "destination": "88268cdae1fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I left my apartment in Denver just after 6:30 to drive across town to my office, since I rely on my car for my long weekday commute."
+    },
+    {
+      "origin": "88268cdae9fffff",
+      "destination": "88268cdac5fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:40",
+      "journal": "Before heading to work, I drove to a nearby retail area in Denver to pick up groceries and a few things I needed for the week."
+    },
+    {
+      "origin": "88268cdae9fffff",
+      "destination": "88268cdae9fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:55",
+      "journal": "After parking back at my building, I walked around my neighborhood in Denver for a quick morning stretch before the day got busy."
+    }
+  ],
+  "278f03cb8c079b28": [
+    {
+      "origin": "88268cdae1fffff",
+      "destination": "88268cdae7fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I left my apartment in Denver early and drove to my management job because my commute is long and I need to be at the office before the morning rush builds."
+    },
+    {
+      "origin": "88268cdae1fffff",
+      "destination": "88268cdae3fffff",
+      "mode": "transit",
+      "purpose": "shopping",
+      "departure_time": "06:40",
+      "journal": "I caught an early bus from my rental in Denver to grab groceries and a few basics before work, since transit is the easiest option for a quick errand."
+    },
+    {
+      "origin": "88268cdae1fffff",
+      "destination": "88268cdaebfffff",
+      "mode": "rideshare",
+      "purpose": "medical",
+      "departure_time": "06:55",
+      "journal": "I booked a rideshare from my place in Denver to an appointment across town because I don't want to deal with parking or a long walk afterward."
+    }
+  ],
+  "de67d72af6ff3452": [
+    {
+      "origin": "88268cdaa3fffff",
+      "destination": "88268cdaa1fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I left my apartment in Denver before sunrise and drove across town to my early shift at a warehouse job."
+    },
+    {
+      "origin": "88268cdaa3fffff",
+      "destination": "88268cdab5fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:40",
+      "journal": "On my way to work, I stopped by a grocery store in the next zone to grab cheap breakfast and a few things for the week."
+    },
+    {
+      "origin": "88268cdaa3fffff",
+      "destination": "88268cdaabfffff",
+      "mode": "rideshare",
+      "purpose": "medical",
+      "departure_time": "06:50",
+      "journal": "I booked a rideshare from my place in Denver to an urgent care clinic because my car is tied up and I wanted to get checked out before work."
+    }
+  ],
+  "b02c98c9217ad08a": [
+    {
+      "origin": "88268cdae7fffff",
+      "destination": "88268cdae3fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:34",
+      "journal": "I left my apartment in Denver just after 6:30 and drove to my early shift across town because my 90-minute commute makes driving the most realistic option."
+    },
+    {
+      "origin": "88268cdae7fffff",
+      "destination": "88268cdaadfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:41",
+      "journal": "I hopped in my car for a quick morning grocery run in Denver before work since I live alone and need to grab a few things on the way."
+    },
+    {
+      "origin": "88268cdae7fffff",
+      "destination": "88268cdae7fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:48",
+      "journal": "I took a short walk around my Denver neighborhood to wake up before the day gets busy, since I mostly rely on my car for longer trips."
+    }
+  ],
+  "1c5d7ca66c60948b": [
+    {
+      "origin": "88268cdaadfffff",
+      "destination": "88268cdaa1fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I\u2019m leaving my apartment in northeast Denver at 6:30 to drive to my early shift, because the bus would take too long for my 90-minute commute."
+    },
+    {
+      "origin": "88268cdaadfffff",
+      "destination": "88268cdaa9fffff",
+      "mode": "transit",
+      "purpose": "school",
+      "departure_time": "06:40",
+      "journal": "I\u2019m catching transit from my renter-heavy block in Denver to my morning class, since I can\u2019t afford parking and the stop is closer than driving all the way."
+    },
+    {
+      "origin": "88268cdaadfffff",
+      "destination": "88268cdae7fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:55",
+      "journal": "Before work, I\u2019m driving a few minutes to a nearby Denver retail area to grab cheap groceries and coffee for the day."
+    }
+  ],
+  "75c34ae5c83f45e0": [
+    {
+      "origin": "88268cdab5fffff",
+      "destination": "88268cdaa3fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I left my apartment in northeast Denver at 6:30 to drive over to a morning shift across town, because I need the car to keep my schedule reliable."
+    },
+    {
+      "origin": "88268cdab5fffff",
+      "destination": "88268cdab5fffff",
+      "mode": "walking",
+      "purpose": "shopping",
+      "departure_time": "06:40",
+      "journal": "I walked to the nearby convenience store in Denver to grab coffee and a breakfast sandwich before work, since it\u2019s quicker than dealing with parking."
+    },
+    {
+      "origin": "88268cdab5fffff",
+      "destination": "88268cdabdfffff",
+      "mode": "transit",
+      "purpose": "recreation",
+      "departure_time": "06:50",
+      "journal": "I took the bus from my Denver neighborhood to meet a friend near a park for a quick early workout before the day gets busy."
+    }
+  ],
+  "e3d228ad242f4dff": [
+    {
+      "origin": "88268cdab1fffff",
+      "destination": "88268cdabdfffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:32",
+      "journal": "I left my apartment early in my car for a long morning commute to a management job across Denver, hoping to beat some of the rush."
+    },
+    {
+      "origin": "88268cdab1fffff",
+      "destination": "88268cdab1fffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "06:41",
+      "journal": "I walked a few blocks from my rental to grab breakfast at a nearby caf\u00e9 before heading into the rest of my day."
+    },
+    {
+      "origin": "88268cdab1fffff",
+      "destination": "88268cdab9fffff",
+      "mode": "transit",
+      "purpose": "recreation",
+      "departure_time": "06:49",
+      "journal": "I caught transit from my neighborhood in Denver to meet a friend at a nearby recreation spot, since parking there is usually a hassle."
+    }
+  ],
+  "8c1c82bf7860c6e2": [
+    {
+      "origin": "88268cda97fffff",
+      "destination": "88268cda95fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I left my home in southeast Denver just after 6:30 to drive to an early management meeting across town, since the commute is too long to rely on transit this morning."
+    },
+    {
+      "origin": "88268cda97fffff",
+      "destination": "88268cdabbfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:42",
+      "journal": "I drove to an upscale grocery and pharmacy stop in Denver to pick up a few things before the day gets busy."
+    },
+    {
+      "origin": "88268cda97fffff",
+      "destination": "88268cda97fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:55",
+      "journal": "I took a short walk near home in Denver to get some fresh air and coffee before heading back inside for the day."
+    }
+  ],
+  "729171d08371c766": [
+    {
+      "origin": "88268cdabbfffff",
+      "destination": "88268cdab9fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I left my apartment in Denver right at 6:30 to drive across town for my morning shift, since my commute is too long and car access is the most reliable option for me."
+    },
+    {
+      "origin": "88268cdabbfffff",
+      "destination": "88268cda95fffff",
+      "mode": "transit",
+      "purpose": "dining",
+      "departure_time": "06:40",
+      "journal": "I caught a bus from my neighborhood in Denver to grab an early breakfast near a transit corridor before heading into the rest of my day."
+    },
+    {
+      "origin": "88268cdabbfffff",
+      "destination": "88268cdabbfffff",
+      "mode": "walking",
+      "purpose": "shopping",
+      "departure_time": "06:55",
+      "journal": "I walked a few blocks in Denver to pick up coffee and a couple of groceries nearby, since it was easier than dealing with parking for a short errand."
+    }
+  ],
+  "45b8eec7043eb85f": [
+    {
+      "origin": "88268cda91fffff",
+      "destination": "88268cda9dfffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:32",
+      "journal": "I left my house in Denver just after 6:30 to drive across town for an early client meeting, since my job is easier with the car and I can avoid the hassle of limited transit options."
+    },
+    {
+      "origin": "88268cda91fffff",
+      "destination": "88268cda95fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:41",
+      "journal": "I drove out from our neighborhood in Denver to stop at a high-end grocery store before work, because it is quicker to pick up a few things by car than to carry them home another way."
+    },
+    {
+      "origin": "88268cda91fffff",
+      "destination": "88268cda91fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:48",
+      "journal": "I took a short walk near home in Denver to get some fresh air before the workday, which is the one trip I can comfortably do without getting in the car."
+    }
+  ],
+  "9008154a8b64f569": [
+    {
+      "origin": "88268cda99fffff",
+      "destination": "88268cdad7fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I left my apartment in Denver and drove to an early shift across town, since I rely on my car for the long commute."
+    },
+    {
+      "origin": "88268cda99fffff",
+      "destination": "88268cda99fffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "06:40",
+      "journal": "I walked a few blocks in my neighborhood to grab breakfast before heading into the day, taking advantage of nearby cafes."
+    },
+    {
+      "origin": "88268cda99fffff",
+      "destination": "88268cda91fffff",
+      "mode": "transit",
+      "purpose": "shopping",
+      "departure_time": "06:55",
+      "journal": "I caught a transit ride from my Denver apartment to a nearby shopping area to pick up a few essentials without dealing with parking."
+    }
+  ],
+  "fccd98d24bb6cd48": [
+    {
+      "origin": "88268cdad1fffff",
+      "destination": "88268cdaddfffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I left my apartment in Denver early to drive across town to my management job before the morning traffic got even worse."
+    },
+    {
+      "origin": "88268cdad1fffff",
+      "destination": "88268cdad5fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:41",
+      "journal": "I drove to a nearby retail area in Denver to grab a few things on my way into the day, since it was easiest to do it by car."
+    },
+    {
+      "origin": "88268cdad1fffff",
+      "destination": "88268cdad3fffff",
+      "mode": "rideshare",
+      "purpose": "recreation",
+      "departure_time": "06:52",
+      "journal": "I booked a rideshare from my Denver neighborhood to meet a friend for an early workout and coffee, so I could avoid parking hassle."
+    }
+  ],
+  "4463486f2414bc33": [
+    {
+      "origin": "88268cdad3fffff",
+      "destination": "88268cdad1fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:35",
+      "journal": "I left my apartment in south Denver before the freeway filled up and drove to my office across town for an early management meeting."
+    },
+    {
+      "origin": "88268cdad3fffff",
+      "destination": "88268cda99fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:48",
+      "journal": "I hopped in my car to grab a few things from a nearby retail area on my way to the day, since driving is still the easiest option here."
+    },
+    {
+      "origin": "88268cdad3fffff",
+      "destination": "88268cdad3fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:55",
+      "journal": "I took a quick walk around the neighborhood in Denver to get some fresh air before heading back inside and starting work."
+    }
+  ],
+  "6d1d522c5b2aabbe": [
+    {
+      "origin": "88268cdacbfffff",
+      "destination": "88268cdac1fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I left my apartment in Denver at 6:30 to drive across town for my early shift, since I need the car to make my long commute on time."
+    },
+    {
+      "origin": "88268cdacbfffff",
+      "destination": "88268cdacbfffff",
+      "mode": "walking",
+      "purpose": "shopping",
+      "departure_time": "06:40",
+      "journal": "I walked out from my place in Denver to grab a few groceries and coffee nearby before the day got busy, keeping it local since I live alone and rent here."
+    },
+    {
+      "origin": "88268cdacbfffff",
+      "destination": "88268cdaddfffff",
+      "mode": "transit",
+      "purpose": "recreation",
+      "departure_time": "06:55",
+      "journal": "I caught transit from my Denver neighborhood toward a park area for an early workout, even though I usually rely on my car for most trips."
+    }
+  ],
+  "48ebf658a25028b4": [
+    {
+      "origin": "88268cdaddfffff",
+      "destination": "88268cdacbfffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "06:30",
+      "journal": "I left my home in northeast Denver in my own car, heading out early for a long commute to a management job across town before traffic gets worse."
+    },
+    {
+      "origin": "88268cdaddfffff",
+      "destination": "88268cdad5fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "06:40",
+      "journal": "I drove to a nearby retail area to grab a few things on the way to the office, since it is the easiest option with my schedule and parking is straightforward."
+    },
+    {
+      "origin": "88268cdaddfffff",
+      "destination": "88268cdaddfffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "06:55",
+      "journal": "I took a short walk around my neighborhood to get coffee and clear my head before the workday starts, since I can do that locally without needing to drive."
+    }
+  ],
+  "885fc977737fd7c5": [
+    {
+      "origin": "88268cda81fffff",
+      "destination": "88268cda8dfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:35",
+      "journal": "I drove from my apartment in Denver to pick up groceries and a few household items at a nearby retail center since I rely on my car for most errands."
+    },
+    {
+      "origin": "88268cda81fffff",
+      "destination": "88268cda81fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "09:50",
+      "journal": "I took a short walk around my neighborhood in Denver to get some fresh air and stretch my legs before heading back home."
+    },
+    {
+      "origin": "88268cda81fffff",
+      "destination": "88268cda89fffff",
+      "mode": "transit",
+      "purpose": "medical",
+      "departure_time": "10:05",
+      "journal": "I caught transit from my Denver neighborhood to a medical appointment because parking can be a hassle and the route is convenient enough for midday travel."
+    }
+  ],
+  "f9a0e0b7b9629fbc": [
+    {
+      "origin": "88268cda8dfffff",
+      "destination": "88268cdae3fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:35",
+      "journal": "I left my apartment in Denver after grabbing my keys and drove a few minutes to a nearby retail area to pick up groceries and a couple of household items."
+    },
+    {
+      "origin": "88268cda8dfffff",
+      "destination": "88268cda85fffff",
+      "mode": "transit",
+      "purpose": "work",
+      "departure_time": "09:45",
+      "journal": "I caught a bus from my neighborhood in Denver toward an office corridor for a late-morning work meeting, since parking downtown is usually a hassle."
+    },
+    {
+      "origin": "88268cda8dfffff",
+      "destination": "88268cda8dfffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "09:55",
+      "journal": "I walked a few blocks in Denver to get coffee and breakfast from a local cafe before heading back home to work remotely."
+    }
+  ],
+  "8cebb311fb7552d5": [
+    {
+      "origin": "88268cda85fffff",
+      "destination": "88268cda87fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "09:30",
+      "journal": "I left my apartment in Denver at 9:30 to drive a short commute to a nearby office job, since I rely on my car for getting around."
+    },
+    {
+      "origin": "88268cda85fffff",
+      "destination": "88268cda81fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:40",
+      "journal": "I drove from my rental in Denver to a nearby retail area to pick up groceries and a few household items before the day gets busy."
+    },
+    {
+      "origin": "88268cda85fffff",
+      "destination": "88268cdae3fffff",
+      "mode": "transit",
+      "purpose": "recreation",
+      "departure_time": "09:50",
+      "journal": "I caught transit from my Denver apartment toward a nearby recreation spot for a midmorning walk and a break from working from home."
+    }
+  ],
+  "30dd89164816b043": [
+    {
+      "origin": "88268cda87fffff",
+      "destination": "88268cda85fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:32",
+      "journal": "I drove a few minutes to a nearby grocery store in Denver to grab coffee, fruit, and a couple basics before work."
+    },
+    {
+      "origin": "88268cda87fffff",
+      "destination": "88268cdaabfffff",
+      "mode": "transit",
+      "purpose": "work",
+      "departure_time": "09:41",
+      "journal": "I took the bus from my rental in Denver toward a downtown office meeting since traffic and parking are usually easier to avoid that way."
+    },
+    {
+      "origin": "88268cda87fffff",
+      "destination": "88268cda87fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "09:56",
+      "journal": "I walked around my neighborhood in Denver for a short break and picked up a coffee from a local spot before heading back home."
+    }
+  ],
+  "43ea35fcc7cbf606": [
+    {
+      "origin": "88268cda83fffff",
+      "destination": "88268cda9dfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:32",
+      "journal": "I left my apartment in Denver and drove a few minutes to grab groceries and a couple household items before the day gets busier."
+    },
+    {
+      "origin": "88268cda83fffff",
+      "destination": "88268cda87fffff",
+      "mode": "transit",
+      "purpose": "work",
+      "departure_time": "09:40",
+      "journal": "I caught a bus from my place in Denver toward my office area, since my commute is long enough that I usually mix driving and transit when I can."
+    },
+    {
+      "origin": "88268cda83fffff",
+      "destination": "88268cda83fffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "09:51",
+      "journal": "I walked out from my rental in Denver to meet a friend for coffee and a quick bite at a nearby spot in the same neighborhood."
+    }
+  ],
+  "660c50713690f008": [
+    {
+      "origin": "88268cda89fffff",
+      "destination": "88268cdac7fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:30",
+      "journal": "I left my apartment in Denver to drive a few minutes to a nearby retail area for groceries and a quick pharmacy stop before work."
+    },
+    {
+      "origin": "88268cda89fffff",
+      "destination": "88268cda8bfffff",
+      "mode": "rideshare",
+      "purpose": "medical",
+      "departure_time": "09:40",
+      "journal": "I ordered a rideshare from my Denver rental to an outpatient clinic nearby for a morning appointment since I didn't want to deal with parking."
+    },
+    {
+      "origin": "88268cda89fffff",
+      "destination": "88268cda89fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "09:50",
+      "journal": "I stepped out from my Denver apartment for a short walk around the neighborhood to grab coffee and clear my head before the rest of the day."
+    }
+  ],
+  "cc40ab6e9d003070": [
+    {
+      "origin": "88268cda8bfffff",
+      "destination": "88268cda89fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:30",
+      "journal": "I drove a few minutes to a nearby grocery and big-box strip on the Denver side to grab essentials for my apartment before the day gets busy."
+    },
+    {
+      "origin": "88268cda8bfffff",
+      "destination": "88268cda83fffff",
+      "mode": "transit",
+      "purpose": "work",
+      "departure_time": "09:40",
+      "journal": "I took the bus toward a nearby office area in Denver for an in-person work meeting, since traffic and parking are easier to avoid this way."
+    },
+    {
+      "origin": "88268cda8bfffff",
+      "destination": "88268cdad7fffff",
+      "mode": "driving",
+      "purpose": "recreation",
+      "departure_time": "09:55",
+      "journal": "I drove across Denver to a park and trail area for a quick late-morning walk before heading back to my single rental."
+    }
+  ],
+  "eeb4c19191b495d5": [
+    {
+      "origin": "88268cdac7fffff",
+      "destination": "88268cda89fffff",
+      "mode": "transit",
+      "purpose": "shopping",
+      "departure_time": "09:40",
+      "journal": "I caught transit from my place in Denver to pick up a few groceries and household items at a shopping area, which is convenient even though I usually rely on my car."
+    },
+    {
+      "origin": "88268cdac7fffff",
+      "destination": "88268cdac7fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "09:55",
+      "journal": "I walked around my Denver neighborhood for a short coffee break and some fresh air before getting back to my day."
+    }
+  ],
+  "6cdaaac275d104e4": [
+    {
+      "origin": "88268cdaebfffff",
+      "destination": "88268cdac7fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:35",
+      "journal": "I left my apartment in Denver to drive over to a nearby retail strip for a quick grocery run and a few household items before work meetings start."
+    },
+    {
+      "origin": "88268cdaebfffff",
+      "destination": "88268cdae1fffff",
+      "mode": "rideshare",
+      "purpose": "dining",
+      "departure_time": "09:50",
+      "journal": "I grabbed a rideshare from my Denver rental to meet a friend for an early brunch at a caf\u00e9 across town since parking and timing are easier than dealing with transit."
+    },
+    {
+      "origin": "88268cdaebfffff",
+      "destination": "88268cdaebfffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "10:05",
+      "journal": "I took a short walk around my Denver neighborhood to clear my head and get some fresh air before heading back inside for the rest of the morning."
+    }
+  ],
+  "70d9884d10298090": [
+    {
+      "origin": "88268cdae3fffff",
+      "destination": "88268cda85fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:35",
+      "journal": "I drove over to a nearby shopping center in Denver to pick up a few higher-end household items and groceries before the day gets busy."
+    },
+    {
+      "origin": "88268cdae3fffff",
+      "destination": "88268cdaebfffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "09:45",
+      "journal": "I left for my office in Denver by car, since I have a long commute pattern and prefer the convenience of driving for meetings and errands."
+    },
+    {
+      "origin": "88268cdae3fffff",
+      "destination": "88268cdae3fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "09:50",
+      "journal": "I took a short walk around my neighborhood in Denver to get some fresh air and clear my head before heading into the rest of the morning."
+    }
+  ],
+  "e83ef6f604350a3f": [
+    {
+      "origin": "88268cdaa9fffff",
+      "destination": "88268cdae7fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "09:32",
+      "journal": "I left my apartment in northeast Denver and drove to a warehouse shift in the next zone because the bus would take too long for my 10:00 start."
+    },
+    {
+      "origin": "88268cdaa9fffff",
+      "destination": "88268cdaabfffff",
+      "mode": "rideshare",
+      "purpose": "shopping",
+      "departure_time": "09:41",
+      "journal": "I grabbed a rideshare to a discount grocery store near Colfax to pick up cheap essentials since I don't have enough time to wait on transit."
+    },
+    {
+      "origin": "88268cdaa9fffff",
+      "destination": "88268cdaa9fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "09:48",
+      "journal": "I walked over to a nearby coffee shop and park for a quick break before heading back to work, keeping it local because everything's tight on my budget."
+    }
+  ],
+  "4ff237b5fe8342ab": [
+    {
+      "origin": "88268cdaabfffff",
+      "destination": "88268cdaa1fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "09:35",
+      "journal": "I left my apartment in Denver at 9:35 to drive across town for a late morning client meeting, since my schedule is flexible but I still rely on my car for most work trips."
+    },
+    {
+      "origin": "88268cdaabfffff",
+      "destination": "88268cda85fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:50",
+      "journal": "I drove to a nearby retail area in Denver to pick up a few household items and grab coffee, choosing the car because it is the easiest way to bundle errands before noon."
+    },
+    {
+      "origin": "88268cdaabfffff",
+      "destination": "88268cdaabfffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "10:05",
+      "journal": "I took a short walk around my Denver neighborhood to get some fresh air and clear my head before the rest of my workday."
+    }
+  ],
+  "e76239e5358cfa28": [
+    {
+      "origin": "88268cdabdfffff",
+      "destination": "88268cdab1fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "09:35",
+      "journal": "I left my apartment in Denver just after 9:30 to drive to a client meeting across town, since my work schedule is flexible but I still need the car to get there efficiently."
+    },
+    {
+      "origin": "88268cdabdfffff",
+      "destination": "88268cdaabfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:45",
+      "journal": "I drove a few minutes to pick up groceries and household basics near Denver, because it is easier for me to stock up by car than carry everything back on transit."
+    },
+    {
+      "origin": "88268cdabdfffff",
+      "destination": "88268cdabdfffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "09:55",
+      "journal": "I walked out from my rental in Denver to grab a late breakfast at a nearby cafe, taking advantage of the neighborhood shops even though I usually rely on my car."
+    }
+  ],
+  "357ce289a2b462b1": [
+    {
+      "origin": "88268cdab9fffff",
+      "destination": "88268cda87fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "09:35",
+      "journal": "I left my apartment in central Denver by car at 9:35 to head to a client meeting across town, since driving is still the most practical option for me."
+    },
+    {
+      "origin": "88268cdab9fffff",
+      "destination": "88268cdabdfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:50",
+      "journal": "I drove out at 9:50 to pick up groceries and a few household items, taking advantage of the nearby retail options before they get busy."
+    },
+    {
+      "origin": "88268cdab9fffff",
+      "destination": "88268cdab9fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "10:05",
+      "journal": "After the errand, I walked around my neighborhood for a short coffee break and some fresh air, since I like getting a little recreation in before work."
+    }
+  ],
+  "1ca33955b5f79e58": [
+    {
+      "origin": "88268cda95fffff",
+      "destination": "88268cda83fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "09:30",
+      "journal": "I left my apartment in Denver and drove to a nearby office district for a late-morning work meeting, since keeping a car makes it easier for me to get around on a tight schedule."
+    },
+    {
+      "origin": "88268cda95fffff",
+      "destination": "88268cda9dfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:42",
+      "journal": "I drove across Denver to pick up groceries and a few household items before the stores got busier, which is usually the simplest option for me as a renter living alone."
+    },
+    {
+      "origin": "88268cda95fffff",
+      "destination": "88268cda95fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "09:55",
+      "journal": "I stepped out from my place in Denver for a short walk to grab coffee and clear my head, taking advantage of a quick local break before the rest of the day."
+    }
+  ],
+  "f068437e68ec25e0": [
+    {
+      "origin": "88268cdad7fffff",
+      "destination": "88268cda99fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:35",
+      "journal": "I left my apartment in Denver after coffee and drove over to a nearby retail strip to grab groceries and a few household items before the weekend."
+    },
+    {
+      "origin": "88268cdad7fffff",
+      "destination": "88268cdad7fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "09:50",
+      "journal": "I took a short walk around my neighborhood in Denver to clear my head and get some fresh air before logging in for the afternoon."
+    },
+    {
+      "origin": "88268cdad7fffff",
+      "destination": "88268cdad1fffff",
+      "mode": "rideshare",
+      "purpose": "medical",
+      "departure_time": "10:05",
+      "journal": "I booked a rideshare from my place in Denver to a clinic across town for a quick mid-morning appointment since I don't want to deal with parking."
+    }
+  ],
+  "59a6805f4f7adebd": [
+    {
+      "origin": "88268cda9dfffff",
+      "destination": "88268cda91fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:32",
+      "journal": "I left my apartment in Denver and drove a few minutes to pick up groceries at a nearby shopping area before the afternoon gets busy."
+    },
+    {
+      "origin": "88268cda9dfffff",
+      "destination": "88268cda99fffff",
+      "mode": "transit",
+      "purpose": "work",
+      "departure_time": "09:41",
+      "journal": "I caught transit from my rental in Denver to a coworking space for a late-morning work session since parking downtown is a hassle."
+    },
+    {
+      "origin": "88268cda9dfffff",
+      "destination": "88268cda9dfffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "09:55",
+      "journal": "I stepped out for a short walk around my neighborhood in Denver to grab coffee and get some fresh air before heading back home."
+    }
+  ],
+  "26b6959c539783a3": [
+    {
+      "origin": "88268cdac3fffff",
+      "destination": "88268cdac1fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:32",
+      "journal": "I drove over to a nearby retail strip in Denver to pick up groceries and a few household items before heading back to my apartment."
+    },
+    {
+      "origin": "88268cdac3fffff",
+      "destination": "88268cdad5fffff",
+      "mode": "transit",
+      "purpose": "work",
+      "departure_time": "09:41",
+      "journal": "I caught a transit connection from my renter apartment to a job site downtown, since my commute is long and I rely on a mix of bus and rail when I can."
+    },
+    {
+      "origin": "88268cdac3fffff",
+      "destination": "88268cdac3fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "09:58",
+      "journal": "I walked out for a short neighborhood coffee break and a quick loop around the area to get some fresh air before settling back in."
+    }
+  ],
+  "c65b0a5a76290da5": [
+    {
+      "origin": "88268cdad5fffff",
+      "destination": "88268cdad1fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "09:35",
+      "journal": "I left my apartment in Denver by car for a late-morning meeting across town, because even with a decent transit option I rely on driving to keep my schedule flexible."
+    },
+    {
+      "origin": "88268cdad5fffff",
+      "destination": "88268cda8bfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:48",
+      "journal": "I drove to a nearby retail area in Denver to pick up a few expensive errands and grab specialty groceries before the day gets busy."
+    },
+    {
+      "origin": "88268cdad5fffff",
+      "destination": "88268cdad5fffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "09:58",
+      "journal": "I walked a short distance in Denver to meet a friend for coffee and brunch, since it was easier than moving my car for such a quick local trip."
+    }
+  ],
+  "12524950c1d6ffb7": [
+    {
+      "origin": "88268cdac5fffff",
+      "destination": "88268cdae9fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "09:30",
+      "journal": "I left my apartment in Denver at 9:30 and drove across town to a coworking office for a late-morning work session, since I rely on my car for most weekday trips."
+    },
+    {
+      "origin": "88268cdac5fffff",
+      "destination": "88268cdac1fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:40",
+      "journal": "I drove from my place in Denver to a nearby retail area to pick up groceries and a few household items before heading back home."
+    },
+    {
+      "origin": "88268cdac5fffff",
+      "destination": "88268cdac5fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "09:50",
+      "journal": "I took a short walk around my Denver neighborhood to grab coffee and get some fresh air before starting the rest of my day."
+    }
+  ],
+  "92933e44caeaa0fa": [
+    {
+      "origin": "88268cdac1fffff",
+      "destination": "88268cdac7fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "09:30",
+      "journal": "I left my apartment in Denver after a late start and drove to a nearby office area for a midmorning work meeting, since having a car makes it easiest for me to get around from my rental."
+    },
+    {
+      "origin": "88268cdac1fffff",
+      "destination": "88268cdac5fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:40",
+      "journal": "I hopped in my car to run a quick grocery and pharmacy errand at a retail center in Denver, which is the most practical option for me as a single renter with a car-dependent routine."
+    },
+    {
+      "origin": "88268cdac1fffff",
+      "destination": "88268cdac1fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "09:55",
+      "journal": "I took a short walk around my Denver neighborhood to grab coffee and stretch my legs before work, staying close to my apartment because that is the easiest break in my day."
+    }
+  ],
+  "32c15faa8e2b3f15": [
+    {
+      "origin": "88268cdae1fffff",
+      "destination": "88268cdae7fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "09:32",
+      "journal": "I drove from my apartment in Denver to a nearby office park for a late morning shift, since I usually rely on my car to get around."
+    },
+    {
+      "origin": "88268cdae1fffff",
+      "destination": "88268cdae3fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:41",
+      "journal": "I headed out by car to pick up groceries and a few household basics, taking advantage of the nearby retail area before it gets busier."
+    },
+    {
+      "origin": "88268cdae1fffff",
+      "destination": "88268cdae1fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "09:48",
+      "journal": "I took a short walk around my neighborhood in Denver to grab coffee and get some fresh air before starting the rest of my day."
+    }
+  ],
+  "dd7910aac92986d9": [
+    {
+      "origin": "88268cdae9fffff",
+      "destination": "88268cdae1fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:32",
+      "journal": "I drove over to a nearby retail strip in Denver to pick up groceries and a few household items before the day gets busy."
+    },
+    {
+      "origin": "88268cdae9fffff",
+      "destination": "88268cdac5fffff",
+      "mode": "transit",
+      "purpose": "work",
+      "departure_time": "09:41",
+      "journal": "I took transit from my apartment area to a downtown office connection for a late morning work meeting since parking is a hassle."
+    },
+    {
+      "origin": "88268cdae9fffff",
+      "destination": "88268cdae9fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "09:54",
+      "journal": "I walked to a nearby park and coffee spot in Denver for a short break before heading back home."
+    }
+  ],
+  "84f5e5b576045a09": [
+    {
+      "origin": "88268cdaadfffff",
+      "destination": "88268cdaa9fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "09:30",
+      "journal": "I left my rental near 9:30 and drove over to a warehouse shift in Denver, since I need the car to make my early work commute work around the bus schedule."
+    },
+    {
+      "origin": "88268cdaadfffff",
+      "destination": "88268cdaa1fffff",
+      "mode": "transit",
+      "purpose": "school",
+      "departure_time": "09:40",
+      "journal": "I caught the bus toward a community college class in Denver, which is cheaper than driving and lets me use the commute time to catch up on my notes."
+    },
+    {
+      "origin": "88268cdaadfffff",
+      "destination": "88268cdae7fffff",
+      "mode": "rideshare",
+      "purpose": "shopping",
+      "departure_time": "09:50",
+      "journal": "I split a rideshare to a big-box store in Denver to grab groceries and basics, because I don't have the patience to haul everything home on transit."
+    }
+  ],
+  "84576119f6fdb76f": [
+    {
+      "origin": "88268cdae7fffff",
+      "destination": "88268cdaa9fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:35",
+      "journal": "I hopped in my car from my apartment in Denver and drove over to a nearby retail area to grab groceries and a few errands before work."
+    },
+    {
+      "origin": "88268cdae7fffff",
+      "destination": "88268cdae1fffff",
+      "mode": "transit",
+      "purpose": "work",
+      "departure_time": "09:40",
+      "journal": "I left my rental apartment in Denver and took transit toward a job site downtown for a late-morning work meeting, since parking can be a hassle."
+    },
+    {
+      "origin": "88268cdae7fffff",
+      "destination": "88268cdae7fffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "09:50",
+      "journal": "I walked from my apartment to a coffee shop nearby in Denver to get breakfast and work on my laptop for a bit."
+    }
+  ],
+  "3b2ffdda50b5187a": [
+    {
+      "origin": "88268cdab5fffff",
+      "destination": "88268cdaa3fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:35",
+      "journal": "I left my place in Denver after 9:30 and drove over to pick up groceries and a few cheap household items before work tonight."
+    },
+    {
+      "origin": "88268cdab5fffff",
+      "destination": "88268cdabdfffff",
+      "mode": "transit",
+      "purpose": "work",
+      "departure_time": "09:45",
+      "journal": "I caught the bus from my Denver neighborhood to a daytime shift across town because I\u2019m saving gas this week."
+    },
+    {
+      "origin": "88268cdab5fffff",
+      "destination": "88268cdab5fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "09:50",
+      "journal": "I walked a few blocks in Denver to grab coffee and clear my head before heading back home and getting ready for the afternoon."
+    }
+  ],
+  "aab55f39d4a00af6": [
+    {
+      "origin": "88268cdaa3fffff",
+      "destination": "88268cdaabfffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "09:35",
+      "journal": "I left my apartment in northeast Denver and drove to a nearby job site for a late morning shift because I need my car to get around this part of town."
+    },
+    {
+      "origin": "88268cdaa3fffff",
+      "destination": "88268cdaa1fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:50",
+      "journal": "I hopped in my car to grab groceries and a few basics at a store in Denver since it is easier than trying to make multiple bus connections."
+    },
+    {
+      "origin": "88268cdaa3fffff",
+      "destination": "88268cdabdfffff",
+      "mode": "transit",
+      "purpose": "recreation",
+      "departure_time": "10:05",
+      "journal": "I took transit from my Denver neighborhood to meet a friend and hang out at a park area, since I did not want to deal with parking today."
+    }
+  ],
+  "bdf8e6f0c59a25b2": [
+    {
+      "origin": "88268cdab1fffff",
+      "destination": "88268cdab9fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:35",
+      "journal": "I drove over to a nearby Denver retail strip to pick up groceries and a couple of household items before heading back to my apartment."
+    },
+    {
+      "origin": "88268cdab1fffff",
+      "destination": "88268cdabdfffff",
+      "mode": "transit",
+      "purpose": "work",
+      "departure_time": "09:45",
+      "journal": "I caught a bus from my neighborhood into Denver for a late-morning work meeting since parking downtown is a hassle."
+    },
+    {
+      "origin": "88268cdab1fffff",
+      "destination": "88268cdab1fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "09:55",
+      "journal": "I took a short walk around my Denver neighborhood to grab coffee and get some fresh air before starting the rest of my day."
+    }
+  ],
+  "6277a3e82ed83959": [
+    {
+      "origin": "88268cda97fffff",
+      "destination": "88268cda95fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:30",
+      "journal": "I drove over to a nearby shopping center in Denver to pick up a few high-end household items and grab groceries for the week."
+    },
+    {
+      "origin": "88268cda97fffff",
+      "destination": "88268cda97fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "09:40",
+      "journal": "I walked out from my home in Denver for a quick morning stroll through the neighborhood park before my next meeting."
+    },
+    {
+      "origin": "88268cda97fffff",
+      "destination": "88268cdabbfffff",
+      "mode": "rideshare",
+      "purpose": "medical",
+      "departure_time": "09:55",
+      "journal": "I took a rideshare across Denver to an appointment with my specialist, since it was easier than parking and I wanted to avoid the hassle."
+    }
+  ],
+  "984682d0e36c053e": [
+    {
+      "origin": "88268cdabbfffff",
+      "destination": "88268cdab9fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "09:30",
+      "journal": "I left my apartment in Denver at 9:30 and drove a few minutes to a nearby office for a half-day work meeting."
+    },
+    {
+      "origin": "88268cdabbfffff",
+      "destination": "88268cda95fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:40",
+      "journal": "I drove from my rented place in Denver to a retail strip to pick up groceries and a few household items."
+    },
+    {
+      "origin": "88268cdabbfffff",
+      "destination": "88268cda97fffff",
+      "mode": "transit",
+      "purpose": "recreation",
+      "departure_time": "09:55",
+      "journal": "I took transit from my Denver apartment to a nearby park area to get some fresh air and walk around before heading back."
+    }
+  ],
+  "ebbb16dd181c2e9e": [
+    {
+      "origin": "88268cda99fffff",
+      "destination": "88268cdad7fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:32",
+      "journal": "I drove over to a nearby shopping area in Denver to pick up groceries and a few household items before heading back to my apartment."
+    },
+    {
+      "origin": "88268cda99fffff",
+      "destination": "88268cda91fffff",
+      "mode": "transit",
+      "purpose": "work",
+      "departure_time": "09:41",
+      "journal": "I caught transit from my rented apartment in Denver to an office area for a mid-morning work shift since parking would be a hassle."
+    },
+    {
+      "origin": "88268cda99fffff",
+      "destination": "88268cdad3fffff",
+      "mode": "rideshare",
+      "purpose": "recreation",
+      "departure_time": "09:55",
+      "journal": "I booked a rideshare to a Denver recreation spot for a late breakfast and some time out of the apartment before the afternoon."
+    }
+  ],
+  "56f7bbac8629b01f": [
+    {
+      "origin": "88268cda91fffff",
+      "destination": "88268cda9dfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:35",
+      "journal": "I left my office area in Denver to drive over to a nearby retail center for a quick upscale grocery run and a few household items before my afternoon meetings."
+    },
+    {
+      "origin": "88268cda91fffff",
+      "destination": "88268cda97fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "09:45",
+      "journal": "I drove across Denver to a client site for a late-morning professional meeting, since it is much easier for me to rely on my car than transit."
+    },
+    {
+      "origin": "88268cda91fffff",
+      "destination": "88268cda91fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "09:50",
+      "journal": "I stepped out for a short walk around my Denver neighborhood to grab coffee and enjoy a bit of fresh air before the rest of my workday."
+    }
+  ],
+  "3ef6c3ce2b9446da": [
+    {
+      "origin": "88268cdad3fffff",
+      "destination": "88268cdad1fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:35",
+      "journal": "I drove over to a nearby retail area in Denver to pick up a few things before my afternoon meetings, since it\u2019s easiest for me to get in and out by car."
+    },
+    {
+      "origin": "88268cdad3fffff",
+      "destination": "88268cda99fffff",
+      "mode": "rideshare",
+      "purpose": "medical",
+      "departure_time": "09:50",
+      "journal": "I booked a rideshare to a medical appointment across Denver because I\u2019d rather avoid parking and keep the trip simple."
+    },
+    {
+      "origin": "88268cdad3fffff",
+      "destination": "88268cdad3fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "10:05",
+      "journal": "I took a short walk locally in Denver to clear my head and get some exercise before heading back home for the rest of the day."
+    }
+  ],
+  "3ba4b1c068b6f1ff": [
+    {
+      "origin": "88268cdad1fffff",
+      "destination": "88268cdaddfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:35",
+      "journal": "I hopped in my SUV after a quick coffee at home and drove to a nearby retail strip in Denver to pick up a few upscale household items before the crowds built up."
+    },
+    {
+      "origin": "88268cdad1fffff",
+      "destination": "88268cdad3fffff",
+      "mode": "transit",
+      "purpose": "work",
+      "departure_time": "09:45",
+      "journal": "I took transit from my Denver neighborhood to a meeting downtown because parking would have been a hassle and I had time to answer emails on the way."
+    },
+    {
+      "origin": "88268cdad1fffff",
+      "destination": "88268cdad1fffff",
+      "mode": "driving",
+      "purpose": "recreation",
+      "departure_time": "09:55",
+      "journal": "I drove a short loop to a nearby Denver park for a quick midmorning walk and a change of scenery before heading back to work later."
+    }
+  ],
+  "983f2b41e45fcde3": [
+    {
+      "origin": "88268cdacbfffff",
+      "destination": "88268cdac1fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "09:30",
+      "journal": "I left my apartment in Denver by car at 9:30 to head to a nearby office area for a late-morning work shift."
+    },
+    {
+      "origin": "88268cdacbfffff",
+      "destination": "88268cdaddfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:40",
+      "journal": "I drove from my rental in Denver to a retail zone to pick up groceries and a few household items before the day gets busy."
+    },
+    {
+      "origin": "88268cdacbfffff",
+      "destination": "88268cdacbfffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "09:55",
+      "journal": "I walked out from my apartment in Denver to grab coffee and breakfast from a nearby spot in the neighborhood."
+    }
+  ],
+  "a1c19f47db64edb9": [
+    {
+      "origin": "88268cdaddfffff",
+      "destination": "88268cdacbfffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "09:35",
+      "journal": "I left my office in Denver\u2019s central corridor and drove over to a nearby client meeting, since it\u2019s faster than dealing with transit and I can keep my schedule tight."
+    },
+    {
+      "origin": "88268cdaddfffff",
+      "destination": "88268cdad5fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "09:50",
+      "journal": "I hopped in my car for a quick shopping run to pick up a few higher-end household items and groceries before the day gets busy."
+    },
+    {
+      "origin": "88268cdaddfffff",
+      "destination": "88268cdaddfffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "10:10",
+      "journal": "I walked out for an early brunch nearby, enjoying the short trip on foot since the restaurant is close enough to skip driving."
+    }
+  ],
+  "1f03aeca2630f7e4": [
+    {
+      "origin": "88268cda8dfffff",
+      "destination": "88268cdaebfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:35",
+      "journal": "I left my apartment in Denver after work and drove across town to pick up groceries and a few household items since it\u2019s easier to run errands by car."
+    },
+    {
+      "origin": "88268cda8dfffff",
+      "destination": "88268cdae3fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "15:45",
+      "journal": "I hopped in my car and drove to a late afternoon client meeting in Denver because my commute is long and driving is still the most practical option for me."
+    },
+    {
+      "origin": "88268cda8dfffff",
+      "destination": "88268cda8dfffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "15:55",
+      "journal": "I walked out of my building in Denver to clear my head with a short neighborhood stroll before heading back home, since I don\u2019t usually need a car for something this close."
+    }
+  ],
+  "830a7eea53e3d912": [
+    {
+      "origin": "88268cda85fffff",
+      "destination": "88268cda87fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:30",
+      "journal": "I left my apartment in my car to grab groceries and a few things at a nearby retail strip in Denver before the evening rush picked up."
+    },
+    {
+      "origin": "88268cda85fffff",
+      "destination": "88268cdae3fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "15:40",
+      "journal": "I drove across town for a late afternoon work meeting, since my job in Denver usually means long commutes and I rely on my car."
+    },
+    {
+      "origin": "88268cda85fffff",
+      "destination": "88268cda8dfffff",
+      "mode": "rideshare",
+      "purpose": "dining",
+      "departure_time": "16:00",
+      "journal": "I ordered a rideshare to meet a friend for an early dinner in Denver so I wouldn't have to deal with parking after work."
+    }
+  ],
+  "75fe2b1ee4b338b4": [
+    {
+      "origin": "88268cda81fffff",
+      "destination": "88268cda8dfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:30",
+      "journal": "I\u2019m driving over to a nearby strip retail area in Denver to pick up groceries and a few household items before traffic gets worse."
+    },
+    {
+      "origin": "88268cda81fffff",
+      "destination": "88268cda83fffff",
+      "mode": "transit",
+      "purpose": "recreation",
+      "departure_time": "15:40",
+      "journal": "I\u2019m taking the bus toward a local recreation spot in Denver to meet a friend for a late afternoon walk and coffee."
+    },
+    {
+      "origin": "88268cda81fffff",
+      "destination": "88268cda81fffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "15:55",
+      "journal": "I\u2019m walking to a neighborhood caf\u00e9 in Denver for an early dinner since I\u2019d rather avoid driving again today."
+    }
+  ],
+  "ceeecbc8ba3bd23c": [
+    {
+      "origin": "88268cda87fffff",
+      "destination": "88268cda85fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:32",
+      "journal": "I left my apartment in Denver after work to drive a few minutes to grab groceries and a couple of household items before heading back home."
+    },
+    {
+      "origin": "88268cda87fffff",
+      "destination": "88268cdaabfffff",
+      "mode": "transit",
+      "purpose": "work",
+      "departure_time": "15:41",
+      "journal": "I caught a bus from my Denver neighborhood toward my job site since my commute is long and transit is easier than parking downtown."
+    },
+    {
+      "origin": "88268cda87fffff",
+      "destination": "88268cda87fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "15:57",
+      "journal": "I took a short walk around my Denver block to clear my head and get some fresh air before settling in for the evening."
+    }
+  ],
+  "34aacb222aa8ad89": [
+    {
+      "origin": "88268cda83fffff",
+      "destination": "88268cda8bfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:32",
+      "journal": "I left my apartment in Denver after work and drove a few minutes to a nearby retail strip to pick up groceries and a couple of basics before heading home."
+    },
+    {
+      "origin": "88268cda83fffff",
+      "destination": "88268cda95fffff",
+      "mode": "transit",
+      "purpose": "recreation",
+      "departure_time": "15:41",
+      "journal": "I caught a bus from my neighborhood in Denver to a nearby park area to meet a friend for a quick walk and coffee after my long commute."
+    },
+    {
+      "origin": "88268cda83fffff",
+      "destination": "88268cda83fffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "15:48",
+      "journal": "I walked out from my renter apartment in Denver to grab an early dinner from a place in the neighborhood, since I did not want to deal with parking again."
+    }
+  ],
+  "b26741331b6e56a7": [
+    {
+      "origin": "88268cda89fffff",
+      "destination": "88268cdac7fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:30",
+      "journal": "I left my apartment in my car after work to grab groceries and a few basics at a nearby Denver retail strip before heading back home."
+    },
+    {
+      "origin": "88268cda89fffff",
+      "destination": "88268cda8dfffff",
+      "mode": "transit",
+      "purpose": "dining",
+      "departure_time": "15:40",
+      "journal": "I hopped on transit from my rental to meet a friend for an early dinner downtown since parking is a hassle and I don\u2019t want to drive again tonight."
+    },
+    {
+      "origin": "88268cda89fffff",
+      "destination": "88268cda89fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "15:50",
+      "journal": "I walked out from my apartment for a quick loop around the neighborhood and a coffee stop, taking advantage of the nicer weather in Denver."
+    }
+  ],
+  "6fbf620e19b7257e": [
+    {
+      "origin": "88268cda8bfffff",
+      "destination": "88268cda89fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:30",
+      "journal": "I left my apartment in Denver after work to drive over to the nearby retail area for a quick grocery run and to pick up a few things for the week."
+    },
+    {
+      "origin": "88268cda8bfffff",
+      "destination": "88268cda9dfffff",
+      "mode": "transit",
+      "purpose": "recreation",
+      "departure_time": "15:40",
+      "journal": "I caught a transit ride from my place in Denver to meet a friend for a low-key happy hour and some time at a neighborhood park before the evening rush."
+    },
+    {
+      "origin": "88268cda8bfffff",
+      "destination": "88268cdad7fffff",
+      "mode": "driving",
+      "purpose": "dining",
+      "departure_time": "15:55",
+      "journal": "I drove from my rental in Denver to a restaurant on the other side of town to grab an early dinner since I didn\u2019t feel like cooking tonight."
+    }
+  ],
+  "2dc82e95c0262e14": [
+    {
+      "origin": "88268cdac7fffff",
+      "destination": "88268cdac1fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "15:35",
+      "journal": "I left my apartment in central Denver at 3:35 PM and drove to a client meeting across town, since my long commute and car-dependent routine make driving the most reliable option."
+    },
+    {
+      "origin": "88268cdac7fffff",
+      "destination": "88268cda89fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:50",
+      "journal": "After work, I drove to a nearby retail area in Denver to pick up groceries and a few household items for my one-bedroom rental."
+    },
+    {
+      "origin": "88268cdac7fffff",
+      "destination": "88268cdac7fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "16:05",
+      "journal": "I took a short walk around my neighborhood in Denver to clear my head before heading back home, since I live alone and like to get outside when I can."
+    }
+  ],
+  "d21d00cb3181b868": [
+    {
+      "origin": "88268cdae3fffff",
+      "destination": "88268cdaebfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:32",
+      "journal": "I left my apartment in Denver by car to pick up a few things at a nearby retail center before heading home."
+    },
+    {
+      "origin": "88268cdae3fffff",
+      "destination": "88268cdae1fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "15:41",
+      "journal": "I drove across Denver for a late-afternoon meeting at my office, since driving is the easiest way for me to get around."
+    },
+    {
+      "origin": "88268cdae3fffff",
+      "destination": "88268cda85fffff",
+      "mode": "rideshare",
+      "purpose": "dining",
+      "departure_time": "15:56",
+      "journal": "I booked a rideshare to meet friends for an early dinner in Denver so I wouldn\u2019t have to deal with parking."
+    }
+  ],
+  "ef5c8c06b779ab4a": [
+    {
+      "origin": "88268cdaebfffff",
+      "destination": "88268cda8dfffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "15:35",
+      "journal": "I left my apartment in Denver a little after 3:30 to drive to a late work meeting across town, since keeping a car makes it easier to handle my long commute and irregular hours."
+    },
+    {
+      "origin": "88268cdaebfffff",
+      "destination": "88268cdac7fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:45",
+      "journal": "I drove to a nearby shopping area in Denver to pick up groceries and a few household items after work, which is usually faster than trying to juggle transit with my schedule."
+    },
+    {
+      "origin": "88268cdaebfffff",
+      "destination": "88268cdaebfffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "15:55",
+      "journal": "I took a short walk around my Denver neighborhood to clear my head before heading back home, since I live alone and like getting a little fresh air after sitting in traffic."
+    }
+  ],
+  "0f8b096cde6a835b": [
+    {
+      "origin": "88268cdaabfffff",
+      "destination": "88268cdaa1fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "15:32",
+      "journal": "I left my office area in Denver a little early to drive across town to a client meeting before the evening traffic gets worse."
+    },
+    {
+      "origin": "88268cdaabfffff",
+      "destination": "88268cdabdfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:38",
+      "journal": "I hopped in my car to pick up a few things at a retail center in Denver, since it is easier than trying to fit errands into a transit trip."
+    },
+    {
+      "origin": "88268cdaabfffff",
+      "destination": "88268cdaabfffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "15:45",
+      "journal": "I took a short walk from home to stretch my legs and grab some fresh air in the neighborhood before heading back to my car later."
+    }
+  ],
+  "2a0cf837a19da0ec": [
+    {
+      "origin": "88268cdaa9fffff",
+      "destination": "88268cdae7fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "15:30",
+      "journal": "I left my apartment in Denver right after my shift got moved early and drove across town to my evening job, since the bus would take too long for my commute."
+    },
+    {
+      "origin": "88268cdaa9fffff",
+      "destination": "88268cdaabfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:40",
+      "journal": "I hopped in my car to grab groceries and a few basics from a store on the Denver side of town because it\u2019s easier than hauling bags on transit."
+    },
+    {
+      "origin": "88268cdaa9fffff",
+      "destination": "88268cdaa9fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "15:55",
+      "journal": "I walked out from my rental in Denver to meet a friend nearby and get some fresh air before heading back home later tonight."
+    }
+  ],
+  "b630f6e6605bc7ea": [
+    {
+      "origin": "88268cdab9fffff",
+      "destination": "88268cdabdfffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "15:32",
+      "journal": "I\u2019m leaving my apartment in Denver a bit early to drive across town to my late-afternoon work shift, since I rely on my car for getting anywhere reliably."
+    },
+    {
+      "origin": "88268cdab9fffff",
+      "destination": "88268cdabbfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:41",
+      "journal": "I\u2019m heading out by car to pick up groceries and a few household items, which is easier for me than trying to manage errands without a vehicle."
+    },
+    {
+      "origin": "88268cdab9fffff",
+      "destination": "88268cdab9fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "15:56",
+      "journal": "After being in my apartment all day, I\u2019m taking a short walk around my Denver neighborhood to clear my head before I head back home."
+    }
+  ],
+  "48cf8c1c7fa7511d": [
+    {
+      "origin": "88268cdabdfffff",
+      "destination": "88268cdab9fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "15:35",
+      "journal": "I left my apartment in Denver a little after 3:30 to drive to a late client meeting across town, since my job is too far for anything but a car."
+    },
+    {
+      "origin": "88268cdabdfffff",
+      "destination": "88268cda87fffff",
+      "mode": "transit",
+      "purpose": "shopping",
+      "departure_time": "15:45",
+      "journal": "I caught the bus from my neighborhood in Denver to pick up a few groceries and household items at the nearby retail area because parking there is usually a hassle."
+    },
+    {
+      "origin": "88268cdabdfffff",
+      "destination": "88268cdabdfffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "15:50",
+      "journal": "I took a quick walk around my Denver block after work to clear my head and get some exercise before heading back inside."
+    }
+  ],
+  "26ddbe1351a1de14": [
+    {
+      "origin": "88268cda95fffff",
+      "destination": "88268cda91fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:32",
+      "journal": "I left my apartment in Denver after work to drive across town for a quick grocery run and pick up a few household basics."
+    },
+    {
+      "origin": "88268cda95fffff",
+      "destination": "88268cda9dfffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "15:41",
+      "journal": "I got in my car and headed to a job site in Denver for the late afternoon shift, which is easier than trying to rely on transit."
+    },
+    {
+      "origin": "88268cda95fffff",
+      "destination": "88268cda95fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "15:18",
+      "journal": "I walked out from my rental in Denver to grab coffee and clear my head with a short neighborhood stroll before the evening rush."
+    }
+  ],
+  "5cafffd12fa5037f": [
+    {
+      "origin": "88268cda9dfffff",
+      "destination": "88268cda91fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:32",
+      "journal": "I left my apartment in Denver and drove a few minutes to pick up groceries and a couple of household items before the after-work rush."
+    },
+    {
+      "origin": "88268cda9dfffff",
+      "destination": "88268cda8bfffff",
+      "mode": "transit",
+      "purpose": "recreation",
+      "departure_time": "15:41",
+      "journal": "I caught transit from my Denver rental to meet a friend for a quick happy-hour walk and some time at a nearby park."
+    },
+    {
+      "origin": "88268cda9dfffff",
+      "destination": "88268cda9dfffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "15:50",
+      "journal": "I walked out from my apartment in Denver to grab an early dinner at a place close enough that I did not need the car."
+    }
+  ],
+  "32fcf9e7b069e3d1": [
+    {
+      "origin": "88268cdad5fffff",
+      "destination": "88268cdad7fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "15:30",
+      "journal": "I left my office in Denver a little after 3:30 and drove to a nearby client meeting, since it\u2019s faster than relying on transit for my schedule."
+    },
+    {
+      "origin": "88268cdad5fffff",
+      "destination": "88268cda8bfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:40",
+      "journal": "I headed out by car to pick up a few things from a retail center in Denver before the evening rush, which is how I usually handle errands."
+    },
+    {
+      "origin": "88268cdad5fffff",
+      "destination": "88268cdaddfffff",
+      "mode": "rideshare",
+      "purpose": "dining",
+      "departure_time": "15:55",
+      "journal": "I booked a rideshare from my Denver neighborhood to meet a friend for an early dinner, because it\u2019s easier than parking after work."
+    }
+  ],
+  "ff4999a8f0317def": [
+    {
+      "origin": "88268cdac1fffff",
+      "destination": "88268cdac5fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:35",
+      "journal": "I left my apartment in Denver after work and drove a few minutes to a nearby retail area to grab groceries and a couple of things for my place."
+    },
+    {
+      "origin": "88268cdac1fffff",
+      "destination": "88268cdacbfffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "15:45",
+      "journal": "I headed out from my rental in Denver and drove across town to meet a client for an afternoon work appointment."
+    },
+    {
+      "origin": "88268cdac1fffff",
+      "destination": "88268cdac3fffff",
+      "mode": "rideshare",
+      "purpose": "dining",
+      "departure_time": "15:55",
+      "journal": "I ordered a rideshare from my Denver apartment to meet a friend for an early dinner since I didn\u2019t want to deal with parking."
+    }
+  ],
+  "0084dd47df5a0714": [
+    {
+      "origin": "88268cdad7fffff",
+      "destination": "88268cdad5fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:34",
+      "journal": "I left my apartment in Denver after work and drove a few minutes to grab groceries and a couple of household items before the evening rush got worse."
+    },
+    {
+      "origin": "88268cdad7fffff",
+      "destination": "88268cda99fffff",
+      "mode": "transit",
+      "purpose": "dining",
+      "departure_time": "15:41",
+      "journal": "I caught transit from my Denver neighborhood to meet a friend for an early dinner since parking can be annoying around the restaurants."
+    },
+    {
+      "origin": "88268cdad7fffff",
+      "destination": "88268cdad7fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "15:52",
+      "journal": "I walked from my rental to a nearby park in Denver to get some fresh air and stretch my legs before heading back home."
+    }
+  ],
+  "16b59c61e345f942": [
+    {
+      "origin": "88268cdac3fffff",
+      "destination": "88268cdac7fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:32",
+      "journal": "I left my apartment in Denver after work to drive over to a nearby shopping area for groceries and a few household items before heading home."
+    },
+    {
+      "origin": "88268cdac3fffff",
+      "destination": "88268cdaddfffff",
+      "mode": "transit",
+      "purpose": "recreation",
+      "departure_time": "15:41",
+      "journal": "I caught transit from my place in Denver to meet a friend at a park and grab a quick walk before the evening rush."
+    },
+    {
+      "origin": "88268cdac3fffff",
+      "destination": "88268cdac3fffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "15:52",
+      "journal": "I walked out from my apartment in Denver to a nearby spot in the zone for an early dinner since I did not want to deal with parking."
+    }
+  ],
+  "d82df8c0dd3386a8": [
+    {
+      "origin": "88268cdae9fffff",
+      "destination": "88268cdae1fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:34",
+      "journal": "I left my apartment in Denver after work to drive a few minutes to a nearby retail strip and pick up groceries and a couple of household items."
+    },
+    {
+      "origin": "88268cdae9fffff",
+      "destination": "88268cdac5fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "15:41",
+      "journal": "I drove across Denver for an evening shift meeting at my office, since living alone and not having practical transit options makes the car the easiest choice."
+    },
+    {
+      "origin": "88268cdae9fffff",
+      "destination": "88268cdae9fffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "15:52",
+      "journal": "I walked down the block in Denver to grab an early dinner at a nearby restaurant before heading back home to my rental."
+    }
+  ],
+  "ccc81c77c47ca562": [
+    {
+      "origin": "88268cdac5fffff",
+      "destination": "88268cdae9fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "15:32",
+      "journal": "I left my apartment in Denver a little after 3:30 and drove across town for an afternoon client meeting, since car access makes it easiest for me to handle the long commute pattern I usually deal with."
+    },
+    {
+      "origin": "88268cdac5fffff",
+      "destination": "88268cdac7fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:41",
+      "journal": "I drove from my rental in Denver to a nearby retail area to pick up groceries and a few things for the week before traffic got worse."
+    },
+    {
+      "origin": "88268cdac5fffff",
+      "destination": "88268cdac5fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "15:47",
+      "journal": "I took a short walk from my apartment in Denver to a local park for a quick break and some fresh air before heading back home."
+    }
+  ],
+  "898ed697cde9f9bb": [
+    {
+      "origin": "88268cdae1fffff",
+      "destination": "88268cdae7fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "15:35",
+      "journal": "I left my apartment in Denver by car a little after 3:30 to head to a late shift at an office job across town, since driving is the only practical way for me to make the commute."
+    },
+    {
+      "origin": "88268cdae1fffff",
+      "destination": "88268cdae9fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:45",
+      "journal": "I drove out from my renter apartment in Denver to pick up groceries and a few household items before the evening rush, because it is faster than trying to piece the trip together by transit."
+    },
+    {
+      "origin": "88268cdae1fffff",
+      "destination": "88268cdae1fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "15:50",
+      "journal": "I took a short walk around my Denver neighborhood after work to clear my head and get some fresh air before heading back inside for the night."
+    }
+  ],
+  "bfa2e926b0a3ebcd": [
+    {
+      "origin": "88268cdae7fffff",
+      "destination": "88268cdae1fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:32",
+      "journal": "I left my apartment in Denver just after 3:30 to drive across town for a quick grocery run and a few household items before heading home."
+    },
+    {
+      "origin": "88268cdae7fffff",
+      "destination": "88268cdaadfffff",
+      "mode": "transit",
+      "purpose": "work",
+      "departure_time": "15:41",
+      "journal": "I caught a bus from my neighborhood in Denver to a nearby office area for a late afternoon work meeting, since parking is easier to avoid than finding in this part of town."
+    },
+    {
+      "origin": "88268cdae7fffff",
+      "destination": "88268cdae7fffff",
+      "mode": "driving",
+      "purpose": "dining",
+      "departure_time": "15:58",
+      "journal": "I drove a few minutes from my rental in Denver to pick up an early dinner from a nearby restaurant and brought it back to my place."
+    }
+  ],
+  "6dea11ae6e051aab": [
+    {
+      "origin": "88268cdaadfffff",
+      "destination": "88268cdaa9fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "15:35",
+      "journal": "I\u2019m heading out from my apartment in southeast Denver by car to a nearby job site for my evening shift, because the bus would take too long and I can\u2019t be late."
+    },
+    {
+      "origin": "88268cdaadfffff",
+      "destination": "88268cdaa1fffff",
+      "mode": "transit",
+      "purpose": "shopping",
+      "departure_time": "15:40",
+      "journal": "I\u2019m catching the bus to grab groceries and cheap household stuff at a store across town since I\u2019m on a tight renter budget and don\u2019t have money for parking."
+    },
+    {
+      "origin": "88268cdaadfffff",
+      "destination": "88268cdaadfffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "15:50",
+      "journal": "I\u2019m walking over to a nearby park in Denver to meet a friend and hang out for a bit before it gets dark."
+    }
+  ],
+  "c38d419cfa1a5c4d": [
+    {
+      "origin": "88268cdab5fffff",
+      "destination": "88268cdaa3fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:30",
+      "journal": "I\u2019m driving over to a nearby store in Denver after work to grab groceries and a few cheap essentials before heading home."
+    },
+    {
+      "origin": "88268cdab5fffff",
+      "destination": "88268cdabdfffff",
+      "mode": "driving",
+      "purpose": "recreation",
+      "departure_time": "15:40",
+      "journal": "I\u2019m driving to a park and rec spot on the edge of Denver to kill some time and get out of the apartment for a bit."
+    },
+    {
+      "origin": "88268cdab5fffff",
+      "destination": "88268cdab5fffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "15:55",
+      "journal": "I\u2019m walking to a nearby fast-casual place in Denver to get an early dinner since I don\u2019t feel like driving again."
+    }
+  ],
+  "f9617d2f178b85b5": [
+    {
+      "origin": "88268cdab1fffff",
+      "destination": "88268cdab9fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:32",
+      "journal": "I left my apartment in Denver after work and drove to a nearby retail area to pick up groceries and a few household items before heading home."
+    },
+    {
+      "origin": "88268cdab1fffff",
+      "destination": "88268cdabbfffff",
+      "mode": "transit",
+      "purpose": "recreation",
+      "departure_time": "15:41",
+      "journal": "I caught a bus from my neighborhood in Denver to meet a friend at a park and brewery area for an early evening hangout."
+    },
+    {
+      "origin": "88268cdab1fffff",
+      "destination": "88268cdab1fffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "15:48",
+      "journal": "I walked from my rental in Denver to a nearby caf\u00e9 for an early dinner since I did not want to deal with parking."
+    }
+  ],
+  "8bc8f4d45e31c4d1": [
+    {
+      "origin": "88268cdaa3fffff",
+      "destination": "88268cdab5fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:35",
+      "journal": "I left my place in east Denver after work and drove over to a nearby strip mall to grab groceries and a few household basics before heading home."
+    },
+    {
+      "origin": "88268cdaa3fffff",
+      "destination": "88268cdaabfffff",
+      "mode": "driving",
+      "purpose": "dining",
+      "departure_time": "15:50",
+      "journal": "I hopped in my car and drove to a cheap takeout spot in Denver to pick up dinner since it was easier than cooking after a long shift."
+    },
+    {
+      "origin": "88268cdaa3fffff",
+      "destination": "88268cdaa3fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "16:05",
+      "journal": "I took a short walk around my neighborhood in Denver to clear my head and get some fresh air before the evening rush."
+    }
+  ],
+  "c7ad7b8a3d5e1916": [
+    {
+      "origin": "88268cda97fffff",
+      "destination": "88268cda95fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:30",
+      "journal": "I drove over to a nearby retail center in Denver to pick up a few things for the house and avoid wasting time waiting around."
+    },
+    {
+      "origin": "88268cda97fffff",
+      "destination": "88268cdabbfffff",
+      "mode": "driving",
+      "purpose": "recreation",
+      "departure_time": "15:40",
+      "journal": "I\u2019m driving out to meet a friend for a late-afternoon walk and coffee at a park area on the west side of Denver."
+    },
+    {
+      "origin": "88268cda97fffff",
+      "destination": "88268cda97fffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "15:55",
+      "journal": "I\u2019m walking to an upscale nearby restaurant in the zone for an early dinner before the evening gets busy."
+    }
+  ],
+  "a6f7938e24de6a83": [
+    {
+      "origin": "88268cdabbfffff",
+      "destination": "88268cdab9fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:35",
+      "journal": "I drove over to a nearby retail strip in Denver after work to pick up groceries and a few household items before heading home to my apartment."
+    },
+    {
+      "origin": "88268cdabbfffff",
+      "destination": "88268cda97fffff",
+      "mode": "transit",
+      "purpose": "recreation",
+      "departure_time": "15:40",
+      "journal": "I caught the bus from my neighborhood in Denver to meet a friend at a nearby park and get a quick walk in after a long day."
+    },
+    {
+      "origin": "88268cdabbfffff",
+      "destination": "88268cdabbfffff",
+      "mode": "walking",
+      "purpose": "dining",
+      "departure_time": "15:50",
+      "journal": "I walked a few blocks from my apartment in Denver to grab an early dinner at a local spot since I didn\u2019t want to deal with parking."
+    }
+  ],
+  "b48f0187815cbe98": [
+    {
+      "origin": "88268cda91fffff",
+      "destination": "88268cda95fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:35",
+      "journal": "I left my office in northwest Denver and drove over to a nearby retail center to pick up a few things before heading home."
+    },
+    {
+      "origin": "88268cda91fffff",
+      "destination": "88268cda97fffff",
+      "mode": "driving",
+      "purpose": "recreation",
+      "departure_time": "15:45",
+      "journal": "I drove across town to meet a friend for a quick workout and a walk at a local recreation area before the evening rush."
+    },
+    {
+      "origin": "88268cda91fffff",
+      "destination": "88268cda9dfffff",
+      "mode": "rideshare",
+      "purpose": "dining",
+      "departure_time": "15:55",
+      "journal": "I booked a rideshare from my Denver neighborhood to dinner in a nearby area so I could avoid parking and relax after a long day."
+    }
+  ],
+  "5c43d550d1711e37": [
+    {
+      "origin": "88268cda99fffff",
+      "destination": "88268cdad7fffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "15:30",
+      "journal": "I left my apartment in Denver around 3:30 PM and drove to a client meeting across town, since my job is too far to reasonably do without a car."
+    },
+    {
+      "origin": "88268cda99fffff",
+      "destination": "88268cda99fffff",
+      "mode": "walking",
+      "purpose": "shopping",
+      "departure_time": "15:45",
+      "journal": "I walked a few minutes from my rental in Denver to grab a couple groceries and household items nearby before heading back home."
+    },
+    {
+      "origin": "88268cda99fffff",
+      "destination": "88268cdad3fffff",
+      "mode": "rideshare",
+      "purpose": "dining",
+      "departure_time": "15:55",
+      "journal": "I booked a rideshare from my place in Denver to meet a friend for an early dinner, since parking and traffic felt easier to avoid."
+    }
+  ],
+  "5f8189d11c932ab9": [
+    {
+      "origin": "88268cdad3fffff",
+      "destination": "88268cdad1fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:35",
+      "journal": "I left my condo in Denver\u2019s southeast side and drove over to a nearby retail corridor to pick up a few home items and groceries before the evening rush."
+    },
+    {
+      "origin": "88268cdad3fffff",
+      "destination": "88268cda99fffff",
+      "mode": "rideshare",
+      "purpose": "dining",
+      "departure_time": "16:05",
+      "journal": "I booked a rideshare from my place in Denver to meet a friend for an early dinner at a restaurant in a neighboring part of town so I wouldn\u2019t have to deal with parking."
+    },
+    {
+      "origin": "88268cdad3fffff",
+      "destination": "88268cdad3fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "16:20",
+      "journal": "I took a short walk from my apartment in Denver to a nearby park trail for a quick workout before heading back home."
+    }
+  ],
+  "34c81d3a7be38c12": [
+    {
+      "origin": "88268cdad1fffff",
+      "destination": "88268cdaddfffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:35",
+      "journal": "I left my condo in Denver and drove over to a nearby retail area to pick up a few higher-end groceries and household items before traffic gets worse."
+    },
+    {
+      "origin": "88268cdad1fffff",
+      "destination": "88268cdad3fffff",
+      "mode": "driving",
+      "purpose": "dining",
+      "departure_time": "15:45",
+      "journal": "I headed out by car from Denver for an early dinner reservation across town, since it is easier than dealing with transit and I can park without much hassle."
+    },
+    {
+      "origin": "88268cdad1fffff",
+      "destination": "88268cdad1fffff",
+      "mode": "walking",
+      "purpose": "recreation",
+      "departure_time": "15:50",
+      "journal": "I took a short walk around my Denver neighborhood to clear my head and get some exercise before heading back home for the evening."
+    }
+  ],
+  "4b319743e60daf0d": [
+    {
+      "origin": "88268cdaddfffff",
+      "destination": "88268cdacbfffff",
+      "mode": "driving",
+      "purpose": "work",
+      "departure_time": "15:30",
+      "journal": "I left my office in Denver\u2019s southern suburbs at 3:30 PM to drive to a client meeting across town, since my schedule and commute are easier to manage by car."
+    },
+    {
+      "origin": "88268cdaddfffff",
+      "destination": "88268cdad5fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:40",
+      "journal": "I headed out in my SUV to pick up a few things at a nearby retail center in Denver before the evening rush."
+    },
+    {
+      "origin": "88268cdaddfffff",
+      "destination": "88268cdad1fffff",
+      "mode": "rideshare",
+      "purpose": "dining",
+      "departure_time": "15:55",
+      "journal": "I booked a rideshare from my place in Denver to meet friends for an early dinner downtown so I could avoid parking and traffic."
+    }
+  ],
+  "ec370b49b6549b70": [
+    {
+      "origin": "88268cdacbfffff",
+      "destination": "88268cdac1fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "15:32",
+      "journal": "I left my apartment in Denver after work and drove to a nearby retail area to pick up groceries and a few household items before heading home."
+    },
+    {
+      "origin": "88268cdacbfffff",
+      "destination": "88268cdac3fffff",
+      "mode": "transit",
+      "purpose": "work",
+      "departure_time": "15:41",
+      "journal": "I caught transit from my Denver neighborhood to an evening work shift downtown, since the commute is usually easier than trying to park."
+    },
+    {
+      "origin": "88268cdacbfffff",
+      "destination": "88268cdacbfffff",
+      "mode": "driving",
+      "purpose": "dining",
+      "departure_time": "15:48",
+      "journal": "I drove from my renter apartment in Denver to meet a friend for an early dinner at a restaurant in the next zone over."
+    }
+  ],
+  "5993030d7aabbead": [
+    {
+      "origin": "88268cdabdfffff",
+      "destination": "88268cdab1fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "19:30",
+      "journal": "I grabbed my keys and drove over to a nearby Denver grocery store to pick up a few things for my apartment before the evening got too late."
+    },
+    {
+      "origin": "88268cdabdfffff",
+      "destination": "88268cda87fffff",
+      "mode": "rideshare",
+      "purpose": "dining",
+      "departure_time": "19:42",
+      "journal": "I called a rideshare from my rental in Denver to meet a friend for dinner across town since I didn't feel like dealing with parking after work."
+    },
+    {
+      "origin": "88268cdabdfffff",
+      "destination": "88268cdab9fffff",
+      "mode": "transit",
+      "purpose": "social",
+      "departure_time": "19:55",
+      "journal": "I caught a bus from my neighborhood in Denver to a friend's place for a low-key hangout, which was easier than driving for such a short night trip."
+    }
+  ],
+  "ff364218012035e3": [
+    {
+      "origin": "88268cdaadfffff",
+      "destination": "88268cdaa9fffff",
+      "mode": "driving",
+      "purpose": "shopping",
+      "departure_time": "19:30",
+      "journal": "I\u2019m driving over to a nearby discount grocery store in Denver to grab food and a few basics before heading back to my apartment."
+    },
+    {
+      "origin": "88268cdaadfffff",
+      "destination": "88268cdae7fffff",
+      "mode": "transit",
+      "purpose": "work",
+      "departure_time": "19:45",
+      "journal": "I\u2019m taking the bus to my evening shift in Denver since I don\u2019t really have a reliable car and transit is cheaper for me."
+    },
+    {
+      "origin": "88268cdaadfffff",
+      "destination": "88268cdaadfffff",
+      "mode": "walking",
+      "purpose": "social",
+      "departure_time": "20:05",
+      "journal": "I\u2019m walking down the block to meet a friend at a neighbor\u2019s place for a low-key hangout in Denver."
+    }
+  ]
+}

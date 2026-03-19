@@ -1,0 +1,441 @@
+{
+  "88268cda81fffff": {
+    "hex_id": "88268cda81fffff",
+    "lat": 39.740230985414236,
+    "lon": -104.98809672500511,
+    "neighbors": [
+      "88268cda8dfffff",
+      "88268cda85fffff",
+      "88268cda87fffff",
+      "88268cda83fffff",
+      "88268cda8bfffff",
+      "88268cda89fffff"
+    ]
+  },
+  "88268cda8dfffff": {
+    "hex_id": "88268cda8dfffff",
+    "lat": 39.74713693879872,
+    "lon": -104.99484059859708,
+    "neighbors": [
+      "88268cdaebfffff",
+      "88268cdae3fffff",
+      "88268cda85fffff",
+      "88268cda81fffff",
+      "88268cda89fffff",
+      "88268cdac7fffff"
+    ]
+  },
+  "88268cda85fffff": {
+    "hex_id": "88268cda85fffff",
+    "lat": 39.73942748342387,
+    "lon": -104.9994370678026,
+    "neighbors": [
+      "88268cdae3fffff",
+      "88268cdaa9fffff",
+      "88268cdaabfffff",
+      "88268cda87fffff",
+      "88268cda81fffff",
+      "88268cda8dfffff"
+    ]
+  },
+  "88268cda87fffff": {
+    "hex_id": "88268cda87fffff",
+    "lat": 39.732521304857194,
+    "lon": -104.99269334759131,
+    "neighbors": [
+      "88268cda85fffff",
+      "88268cdaabfffff",
+      "88268cdabdfffff",
+      "88268cdab9fffff",
+      "88268cda83fffff",
+      "88268cda81fffff"
+    ]
+  },
+  "88268cda83fffff": {
+    "hex_id": "88268cda83fffff",
+    "lat": 39.73332425556341,
+    "lon": -104.9813538258111,
+    "neighbors": [
+      "88268cda81fffff",
+      "88268cda87fffff",
+      "88268cdab9fffff",
+      "88268cda95fffff",
+      "88268cda9dfffff",
+      "88268cda8bfffff"
+    ]
+  },
+  "88268cda8bfffff": {
+    "hex_id": "88268cda8bfffff",
+    "lat": 39.7410333648376,
+    "lon": -104.9767563884696,
+    "neighbors": [
+      "88268cda89fffff",
+      "88268cda81fffff",
+      "88268cda83fffff",
+      "88268cda9dfffff",
+      "88268cdad7fffff",
+      "88268cdad5fffff"
+    ]
+  },
+  "88268cda89fffff": {
+    "hex_id": "88268cda89fffff",
+    "lat": 39.747939869537504,
+    "lon": -104.98349944071207,
+    "neighbors": [
+      "88268cdac7fffff",
+      "88268cda8dfffff",
+      "88268cda81fffff",
+      "88268cda8bfffff",
+      "88268cdad5fffff",
+      "88268cdac3fffff"
+    ]
+  },
+  "88268cdac7fffff": {
+    "hex_id": "88268cdac7fffff",
+    "lat": 39.754845597614974,
+    "lon": -104.99024346757214,
+    "neighbors": [
+      "88268cdac5fffff",
+      "88268cdaebfffff",
+      "88268cda8dfffff",
+      "88268cda89fffff",
+      "88268cdac3fffff",
+      "88268cdac1fffff"
+    ]
+  },
+  "88268cdaebfffff": {
+    "hex_id": "88268cdaebfffff",
+    "lat": 39.75404211532709,
+    "lon": -105.00158544661132,
+    "neighbors": [
+      "88268cdae9fffff",
+      "88268cdae1fffff",
+      "88268cdae3fffff",
+      "88268cda8dfffff",
+      "88268cdac7fffff",
+      "88268cdac5fffff"
+    ]
+  },
+  "88268cdae3fffff": {
+    "hex_id": "88268cdae3fffff",
+    "lat": 39.746332885290556,
+    "lon": -105.0061817622165,
+    "neighbors": [
+      "88268cdae1fffff",
+      "88268cdae7fffff",
+      "88268cdaa9fffff",
+      "88268cda85fffff",
+      "88268cda8dfffff",
+      "88268cdaebfffff"
+    ]
+  },
+  "88268cdaa9fffff": {
+    "hex_id": "88268cdaa9fffff",
+    "lat": 39.73862285888164,
+    "lon": -105.01077741597359,
+    "neighbors": [
+      "88268cdae7fffff",
+      "88268cdaadfffff",
+      "88268cdaa1fffff",
+      "88268cdaabfffff",
+      "88268cda85fffff",
+      "88268cdae3fffff"
+    ]
+  },
+  "88268cdaabfffff": {
+    "hex_id": "88268cdaabfffff",
+    "lat": 39.731717231801426,
+    "lon": -105.00403287527254,
+    "neighbors": [
+      "88268cdaa9fffff",
+      "88268cdaa1fffff",
+      "88268cdaa3fffff",
+      "88268cdabdfffff",
+      "88268cda87fffff",
+      "88268cda85fffff"
+    ]
+  },
+  "88268cdabdfffff": {
+    "hex_id": "88268cdabdfffff",
+    "lat": 39.72481082817741,
+    "lon": -104.9972893085544,
+    "neighbors": [
+      "88268cdaabfffff",
+      "88268cdaa3fffff",
+      "88268cdab5fffff",
+      "88268cdab1fffff",
+      "88268cdab9fffff",
+      "88268cda87fffff"
+    ]
+  },
+  "88268cdab9fffff": {
+    "hex_id": "88268cdab9fffff",
+    "lat": 39.72561434998032,
+    "lon": -104.98595060155837,
+    "neighbors": [
+      "88268cda87fffff",
+      "88268cdabdfffff",
+      "88268cdab1fffff",
+      "88268cdabbfffff",
+      "88268cda95fffff",
+      "88268cda83fffff"
+    ]
+  },
+  "88268cda95fffff": {
+    "hex_id": "88268cda95fffff",
+    "lat": 39.72641674963611,
+    "lon": -104.97461190099065,
+    "neighbors": [
+      "88268cda83fffff",
+      "88268cdab9fffff",
+      "88268cdabbfffff",
+      "88268cda97fffff",
+      "88268cda91fffff",
+      "88268cda9dfffff"
+    ]
+  },
+  "88268cda9dfffff": {
+    "hex_id": "88268cda9dfffff",
+    "lat": 39.73412608390508,
+    "lon": -104.97001431082019,
+    "neighbors": [
+      "88268cda8bfffff",
+      "88268cda83fffff",
+      "88268cda95fffff",
+      "88268cda91fffff",
+      "88268cda99fffff",
+      "88268cdad7fffff"
+    ]
+  },
+  "88268cdad7fffff": {
+    "hex_id": "88268cdad7fffff",
+    "lat": 39.741834621679054,
+    "lon": -104.96541605908456,
+    "neighbors": [
+      "88268cdad5fffff",
+      "88268cda8bfffff",
+      "88268cda9dfffff",
+      "88268cda99fffff",
+      "88268cdad3fffff",
+      "88268cdad1fffff"
+    ]
+  },
+  "88268cdad5fffff": {
+    "hex_id": "88268cdad5fffff",
+    "lat": 39.74874167749188,
+    "lon": -104.97215828945022,
+    "neighbors": [
+      "88268cdac3fffff",
+      "88268cda89fffff",
+      "88268cda8bfffff",
+      "88268cdad7fffff",
+      "88268cdad1fffff",
+      "88268cdaddfffff"
+    ]
+  },
+  "88268cdac3fffff": {
+    "hex_id": "88268cdac3fffff",
+    "lat": 39.75564795691605,
+    "lon": -104.97890149462853,
+    "neighbors": [
+      "88268cdac1fffff",
+      "88268cdac7fffff",
+      "88268cda89fffff",
+      "88268cdad5fffff",
+      "88268cdaddfffff",
+      "88268cdacbfffff"
+    ]
+  },
+  "88268cdac1fffff": {
+    "hex_id": "88268cdac1fffff",
+    "lat": 39.7625534595618,
+    "lon": -104.98564567464409,
+    "neighbors": [
+      "88268cdac5fffff",
+      "88268cdac7fffff",
+      "88268cdac3fffff",
+      "88268cdacbfffff"
+    ]
+  },
+  "88268cdac5fffff": {
+    "hex_id": "88268cdac5fffff",
+    "lat": 39.76175054868034,
+    "lon": -104.99698846907422,
+    "neighbors": [
+      "88268cdae9fffff",
+      "88268cdaebfffff",
+      "88268cdac7fffff",
+      "88268cdac1fffff"
+    ]
+  },
+  "88268cdae9fffff": {
+    "hex_id": "88268cdae9fffff",
+    "lat": 39.76094651460976,
+    "lon": -105.00833126907207,
+    "neighbors": [
+      "88268cdae1fffff",
+      "88268cdaebfffff",
+      "88268cdac5fffff"
+    ]
+  },
+  "88268cdae1fffff": {
+    "hex_id": "88268cdae1fffff",
+    "lat": 39.75323751006758,
+    "lon": -105.01292743085713,
+    "neighbors": [
+      "88268cdae7fffff",
+      "88268cdae3fffff",
+      "88268cdaebfffff",
+      "88268cdae9fffff"
+    ]
+  },
+  "88268cdae7fffff": {
+    "hex_id": "88268cdae7fffff",
+    "lat": 39.74552770902833,
+    "lon": -105.01752293068165,
+    "neighbors": [
+      "88268cdaadfffff",
+      "88268cdaa9fffff",
+      "88268cdae3fffff",
+      "88268cdae1fffff"
+    ]
+  },
+  "88268cdaadfffff": {
+    "hex_id": "88268cdaadfffff",
+    "lat": 39.73781711180303,
+    "lon": -105.02211776862951,
+    "neighbors": [
+      "88268cdaa1fffff",
+      "88268cdaa9fffff",
+      "88268cdae7fffff"
+    ]
+  },
+  "88268cdaa1fffff": {
+    "hex_id": "88268cdaa1fffff",
+    "lat": 39.730912036411425,
+    "lon": -105.0153724079664,
+    "neighbors": [
+      "88268cdaadfffff",
+      "88268cdaa3fffff",
+      "88268cdaabfffff",
+      "88268cdaa9fffff"
+    ]
+  },
+  "88268cdaa3fffff": {
+    "hex_id": "88268cdaa3fffff",
+    "lat": 39.72400618424255,
+    "lon": -105.00862802109057,
+    "neighbors": [
+      "88268cdaa1fffff",
+      "88268cdab5fffff",
+      "88268cdabdfffff",
+      "88268cdaabfffff"
+    ]
+  },
+  "88268cdab5fffff": {
+    "hex_id": "88268cdab5fffff",
+    "lat": 39.71709955568616,
+    "lon": -105.00188460797806,
+    "neighbors": [
+      "88268cdaa3fffff",
+      "88268cdab1fffff",
+      "88268cdabdfffff"
+    ]
+  },
+  "88268cdab1fffff": {
+    "hex_id": "88268cdab1fffff",
+    "lat": 39.71790364839948,
+    "lon": -104.99054671579505,
+    "neighbors": [
+      "88268cdabdfffff",
+      "88268cdab5fffff",
+      "88268cdabbfffff",
+      "88268cdab9fffff"
+    ]
+  },
+  "88268cdabbfffff": {
+    "hex_id": "88268cdabbfffff",
+    "lat": 39.71870661918321,
+    "lon": -104.97920882967944,
+    "neighbors": [
+      "88268cdab9fffff",
+      "88268cdab1fffff",
+      "88268cda97fffff",
+      "88268cda95fffff"
+    ]
+  },
+  "88268cda97fffff": {
+    "hex_id": "88268cda97fffff",
+    "lat": 39.71950846802232,
+    "lon": -104.96787095051916,
+    "neighbors": [
+      "88268cda95fffff",
+      "88268cdabbfffff",
+      "88268cda91fffff"
+    ]
+  },
+  "88268cda91fffff": {
+    "hex_id": "88268cda91fffff",
+    "lat": 39.72721802712989,
+    "lon": -104.96327320773928,
+    "neighbors": [
+      "88268cda9dfffff",
+      "88268cda95fffff",
+      "88268cda97fffff",
+      "88268cda99fffff"
+    ]
+  },
+  "88268cda99fffff": {
+    "hex_id": "88268cda99fffff",
+    "lat": 39.73492678986744,
+    "lon": -104.9586748035069,
+    "neighbors": [
+      "88268cdad7fffff",
+      "88268cda9dfffff",
+      "88268cda91fffff",
+      "88268cdad3fffff"
+    ]
+  },
+  "88268cdad3fffff": {
+    "hex_id": "88268cdad3fffff",
+    "lat": 39.742634755924,
+    "lon": -104.95407573773853,
+    "neighbors": [
+      "88268cdad1fffff",
+      "88268cdad7fffff",
+      "88268cda99fffff"
+    ]
+  },
+  "88268cdad1fffff": {
+    "hex_id": "88268cdad1fffff",
+    "lat": 39.7495423626471,
+    "lon": -104.96081714570016,
+    "neighbors": [
+      "88268cdaddfffff",
+      "88268cdad5fffff",
+      "88268cdad7fffff",
+      "88268cdad3fffff"
+    ]
+  },
+  "88268cdaddfffff": {
+    "hex_id": "88268cdaddfffff",
+    "lat": 39.756449193215424,
+    "lon": -104.96755952866933,
+    "neighbors": [
+      "88268cdacbfffff",
+      "88268cdac3fffff",
+      "88268cdad5fffff",
+      "88268cdad1fffff"
+    ]
+  },
+  "88268cdacbfffff": {
+    "hex_id": "88268cdacbfffff",
+    "lat": 39.763355247239105,
+    "lon": -104.97430288667078,
+    "neighbors": [
+      "88268cdac1fffff",
+      "88268cdac3fffff",
+      "88268cdaddfffff"
+    ]
+  }
+}

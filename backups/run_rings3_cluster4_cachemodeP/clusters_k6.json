@@ -1,0 +1,53 @@
+{
+  "memberships": {
+    "88268cda81fffff": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    "88268cda8dfffff": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "88268cda85fffff": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "88268cda87fffff": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "88268cda83fffff": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  "labels": [
+    "renter single-person car-dependent",
+    "working-class renter single-person car-dependent",
+    "older renter single-person car-dependent",
+    "renter single-person car-dependent",
+    "renter single-person car-dependent"
+  ],
+  "weights": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ]
+}
